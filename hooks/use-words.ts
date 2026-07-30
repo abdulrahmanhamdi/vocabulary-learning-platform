@@ -1,38 +1,51 @@
 // hooks/use-words.ts
 'use client';
 
-import { useState, useEffect } from 'react';
+import { useState, useEffect, useMemo } from 'react';
 import { Word, DayData } from '@/types';
 import allWordsData from '@/data/all-words.json';
-import dayData from '@/data/days/day-1.json';
+import { DEFAULT_WORDS_PER_DAY } from '@/lib/constants';
+
+export function generateDaysFromWords(
+  words: Word[],
+  wordsPerDay: number = DEFAULT_WORDS_PER_DAY
+): DayData[] {
+  if (!words || words.length === 0 || wordsPerDay <= 0) return [];
+
+  const daysCount = Math.ceil(words.length / wordsPerDay);
+  const days: DayData[] = [];
+
+  for (let i = 0; i < daysCount; i++) {
+    const start = i * wordsPerDay;
+    const end = start + wordsPerDay;
+    days.push({
+      day: i + 1,
+      words: words.slice(start, end),
+    });
+  }
+
+  return days;
+}
 
 export function useWords() {
   const [allWords, setAllWords] = useState<Word[]>([]);
-  const [days, setDays] = useState<DayData[]>([]);
   const [isLoading, setIsLoading] = useState(true);
 
   useEffect(() => {
-    // In a real app, this would be an API call
-    // For now, we load from local JSON
     try {
       const words = allWordsData as Word[];
       setAllWords(words);
-
-      // Load all day files dynamically
-      // For demo, we'll just use day-1
-      const day1 = dayData as Word[];
-      setDays([
-        {
-          day: 1,
-          words: day1,
-        },
-      ]);
       setIsLoading(false);
     } catch (error) {
       console.error('Error loading words:', error);
       setIsLoading(false);
     }
   }, []);
+
+  const days = useMemo(
+    () => generateDaysFromWords(allWords, DEFAULT_WORDS_PER_DAY),
+    [allWords]
+  );
 
   const getWordsForDay = (day: number): Word[] => {
     const dayEntry = days.find((d) => d.day === day);

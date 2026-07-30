@@ -1,21 +1,18 @@
 // lib/api.ts
 import { Word, DayData } from '@/types';
 import allWordsData from '@/data/all-words.json';
-import day1Data from '@/data/days/day-1.json';
+import { generateDaysFromWords } from '@/hooks/use-words';
+import { DEFAULT_WORDS_PER_DAY } from '@/lib/constants';
 
 export async function fetchAllWords(): Promise<Word[]> {
-  // Simulating async data fetching
   return Promise.resolve(allWordsData as Word[]);
 }
 
 export async function fetchDayData(dayNumber: number): Promise<DayData | null> {
-  if (dayNumber === 1) {
-    return Promise.resolve({
-      day: 1,
-      words: day1Data as Word[],
-    });
-  }
-  return Promise.resolve(null);
+  const words = allWordsData as Word[];
+  const days = generateDaysFromWords(words, DEFAULT_WORDS_PER_DAY);
+  const dayData = days.find((d) => d.day === dayNumber);
+  return Promise.resolve(dayData || null);
 }
 
 export async function fetchWordById(id: number): Promise<Word | undefined> {

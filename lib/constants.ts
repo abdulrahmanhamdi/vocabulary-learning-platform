@@ -2,6 +2,7 @@
 export const APP_NAME = 'VocabLearn';
 export const APP_DESCRIPTION = 'Learn English vocabulary with translations in Turkish and Arabic';
 
+export const DEFAULT_WORDS_PER_DAY = 50;
 export const DEFAULT_WORDS_PER_STUDY = 50;
 export const STUDY_BATCH_OPTIONS = [20, 30, 40, 50];
 
