@@ -140,7 +140,7 @@ export default function WordsPage() {
           )}
         </div>
 
-        <Select value={filterBy} onValueChange={(v: any) => setFilterBy(v)}>
+        <Select value={filterBy} onValueChange={(v) => setFilterBy(v as 'all' | 'favorites' | 'known' | 'unknown')}>
           <SelectTrigger className="w-[140px]">
             <SelectValue placeholder={t('common.filter')} />
           </SelectTrigger>
@@ -152,7 +152,7 @@ export default function WordsPage() {
           </SelectContent>
         </Select>
 
-        <Select value={sortBy} onValueChange={(v: any) => setSortBy(v)}>
+        <Select value={sortBy} onValueChange={(v) => setSortBy(v as 'az' | 'za')}>
           <SelectTrigger className="w-[140px]">
             <SelectValue placeholder={t('common.sort')} />
           </SelectTrigger>

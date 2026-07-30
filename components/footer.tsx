@@ -2,7 +2,7 @@
 'use client';
 
 import Link from 'next/link';
-import { Heart, Github, Twitter, Linkedin } from 'lucide-react';
+import { Heart, Globe, Share2, Code } from 'lucide-react';
 
 export function Footer() {
   return (
@@ -25,24 +25,24 @@ export function Footer() {
           <div className="flex items-center gap-4">
             <Link
               href="#"
-              aria-label="GitHub"
+              aria-label="Website"
               className="text-muted-foreground hover:text-link-hover transition-colors"
             >
-              <Github className="h-5 w-5" />
+              <Globe className="h-5 w-5" />
             </Link>
             <Link
               href="#"
-              aria-label="Twitter"
+              aria-label="Share"
               className="text-muted-foreground hover:text-link-hover transition-colors"
             >
-              <Twitter className="h-5 w-5" />
+              <Share2 className="h-5 w-5" />
             </Link>
             <Link
               href="#"
-              aria-label="LinkedIn"
+              aria-label="Code"
               className="text-muted-foreground hover:text-link-hover transition-colors"
             >
-              <Linkedin className="h-5 w-5" />
+              <Code className="h-5 w-5" />
             </Link>
           </div>
         </div>

@@ -2,14 +2,7 @@
 'use client';
 
 import { useState, useEffect, useCallback } from 'react';
-import { LocalStorageData, UserPreferences } from '@/types';
 
-const defaultPreferences: UserPreferences = {
-  theme: 'system',
-  language: 'en',
-  wordsPerStudy: 50,
-  hideTranslations: false,
-};
 
 export function useLocalStorage<T>(key: string, initialValue: T) {
   const [storedValue, setStoredValue] = useState<T>(initialValue);
