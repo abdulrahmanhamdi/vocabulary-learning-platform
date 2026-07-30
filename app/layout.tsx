@@ -4,19 +4,23 @@ import { GeistSans, GeistMono } from '@/lib/fonts';
 import { ThemeProvider } from '@/components/theme-provider';
 import { Navbar } from '@/components/navbar';
 import { Footer } from '@/components/footer';
+import { constructMetadata } from '@/lib/seo';
 import './globals.css';
 
-export const metadata: Metadata = {
-  title: 'Vocabulary Learning Platform',
-  description: 'Learn English vocabulary with translations in Turkish and Arabic',
-  keywords: 'vocabulary, english, learning, education, language',
-  authors: [{ name: 'Vocabulary Learning Platform' }],
-};
+export const metadata: Metadata = constructMetadata({
+  title: 'Home',
+  description: 'Master English vocabulary with daily structured lessons and multi-lingual translations in Turkish and Arabic.',
+  path: '/',
+});
 
 export const viewport: Viewport = {
   width: 'device-width',
   initialScale: 1,
-  maximumScale: 1,
+  maximumScale: 5,
+  themeColor: [
+    { media: '(prefers-color-scheme: light)', color: '#f2f2f2' },
+    { media: '(prefers-color-scheme: dark)', color: '#1a202c' },
+  ],
 };
 
 export default function RootLayout({
