@@ -16,5 +16,4223 @@
     "english": "bring off",
     "turkish": "accomplish, başarmak",
     "arabic": "ينجز، يحقق"
+  },
+  {
+    "id": 4,
+    "english": "affliction",
+    "turkish": "acı, sıkıntı",
+    "arabic": "ألم، معاناة"
+  },
+  {
+    "id": 5,
+    "english": "angle",
+    "turkish": "açı",
+    "arabic": "زاوية"
+  },
+  {
+    "id": 6,
+    "english": "explicitly",
+    "turkish": "açık bir şekilde",
+    "arabic": "بوضوح"
+  },
+  {
+    "id": 7,
+    "english": "exposed",
+    "turkish": "açık, korumasız",
+    "arabic": "مكشوف، معرض"
+  },
+  {
+    "id": 8,
+    "english": "starve",
+    "turkish": "açlıktan ölmek",
+    "arabic": "يتضور جوعاً"
+  },
+  {
+    "id": 9,
+    "english": "sufficiency",
+    "turkish": "adequacy, efficiency, yeterlilik",
+    "arabic": "كفاية"
+  },
+  {
+    "id": 10,
+    "english": "opium poppies",
+    "turkish": "afyon çiçeği",
+    "arabic": "زهور الخشخاش"
+  },
+  {
+    "id": 11,
+    "english": "aggregate",
+    "turkish": "agrega, çakıl vb. dolgu maddesi",
+    "arabic": "ركام (حصى)"
+  },
+  {
+    "id": 12,
+    "english": "arboriculture",
+    "turkish": "ağaç dikimi",
+    "arabic": "زراعة الأشجار"
+  },
+  {
+    "id": 13,
+    "english": "current",
+    "turkish": "akım",
+    "arabic": "تيار"
+  },
+  {
+    "id": 14,
+    "english": "acoustic",
+    "turkish": "akustik",
+    "arabic": "صوتي"
+  },
+  {
+    "id": 15,
+    "english": "tract",
+    "turkish": "alan, saha",
+    "arabic": "منطقة، مساحة"
+  },
+  {
+    "id": 16,
+    "english": "appliance",
+    "turkish": "alet, araç",
+    "arabic": "جهاز، أداة"
+  },
+  {
+    "id": 17,
+    "english": "device",
+    "turkish": "alet, aygıt",
+    "arabic": "جهاز، أداة"
+  },
+  {
+    "id": 18,
+    "english": "flame",
+    "turkish": "alev",
+    "arabic": "لهب"
+  },
+  {
+    "id": 19,
+    "english": "perception",
+    "turkish": "algılama",
+    "arabic": "إدراك"
+  },
+  {
+    "id": 20,
+    "english": "alternating current",
+    "turkish": "alternatif akım",
+    "arabic": "تيار متردد"
+  },
+  {
+    "id": 21,
+    "english": "bauxite",
+    "turkish": "alüminyum cevheri, boksit",
+    "arabic": "البوكسيت (خام الألمنيوم)"
+  },
+  {
+    "id": 22,
+    "english": "silt",
+    "turkish": "alüvyon",
+    "arabic": "غرين، طمي"
+  },
+  {
+    "id": 23,
+    "english": "hatchway",
+    "turkish": "ambar ağzı, lombar ağzı",
+    "arabic": "فتحة عنبر السفينة"
+  },
+  {
+    "id": 24,
+    "english": "principle",
+    "turkish": "ana, esas",
+    "arabic": "مبدأ، أساس"
+  },
+  {
+    "id": 25,
+    "english": "mainland",
+    "turkish": "anakara",
+    "arabic": "البر الرئيسي"
+  },
+  {
+    "id": 26,
+    "english": "survey",
+    "turkish": "anket",
+    "arabic": "استطلاع، مسح"
+  },
+  {
+    "id": 27,
+    "english": "suggestive",
+    "turkish": "anlamlı, hatırlatan",
+    "arabic": "موحي، يذكّر بـ"
+  },
+  {
+    "id": 28,
+    "english": "treaty",
+    "turkish": "anlaşma, sözleşme",
+    "arabic": "معاهدة"
+  },
+  {
+    "id": 29,
+    "english": "expect",
+    "turkish": "anticipate, ummak",
+    "arabic": "يتوقع"
+  },
+  {
+    "id": 30,
+    "english": "suitably",
+    "turkish": "appropriately, conveniently, uygun bir şekilde",
+    "arabic": "بشكل مناسب"
+  },
+  {
+    "id": 31,
+    "english": "interim",
+    "turkish": "ara, geçici",
+    "arabic": "مؤقت"
+  },
+  {
+    "id": 32,
+    "english": "whereby",
+    "turkish": "aracılığıyla, yardımıyla",
+    "arabic": "بواسطته"
+  },
+  {
+    "id": 33,
+    "english": "geodetic survey",
+    "turkish": "arazi ölçümü",
+    "arabic": "المسح الجيوديسي"
+  },
+  {
+    "id": 34,
+    "english": "sequence",
+    "turkish": "ardışıklık, düzen, sıra",
+    "arabic": "تسلسل"
+  },
+  {
+    "id": 35,
+    "english": "refinement",
+    "turkish": "arıtma, saflaştırma",
+    "arabic": "تكرير، تنقية"
+  },
+  {
+    "id": 36,
+    "english": "consequently",
+    "turkish": "as a result, sonuç olarak",
+    "arabic": "وبالتالي"
+  },
+  {
+    "id": 37,
+    "english": "scouring",
+    "turkish": "aşındırma",
+    "arabic": "تآكل، كشط"
+  },
+  {
+    "id": 38,
+    "english": "erode",
+    "turkish": "aşındırmak, aşınmak",
+    "arabic": "يتآكل، يبلى"
+  },
+  {
+    "id": 39,
+    "english": "exceed",
+    "turkish": "aşmak, geçmek",
+    "arabic": "يتجاوز"
+  },
+  {
+    "id": 40,
+    "english": "ultimately",
+    "turkish": "at last, in the end, sonunda",
+    "arabic": "في النهاية"
+  },
+  {
+    "id": 41,
+    "english": "ignition",
+    "turkish": "ateşlenme",
+    "arabic": "اشتعال"
+  },
+  {
+    "id": 42,
+    "english": "attribute to",
+    "turkish": "atfetmek",
+    "arabic": "ينسب إلى"
+  },
+  {
+    "id": 43,
+    "english": "disposal",
+    "turkish": "atık",
+    "arabic": "تخلص، نفايات"
+  },
+  {
+    "id": 44,
+    "english": "waste product",
+    "turkish": "atık madde",
+    "arabic": "منتج نفايات"
+  },
+  {
+    "id": 45,
+    "english": "lunar base",
+    "turkish": "ay üssü",
+    "arabic": "قاعدة قمرية"
+  },
+  {
+    "id": 46,
+    "english": "footprint",
+    "turkish": "ayak izi",
+    "arabic": "أثر قدم، بصمة"
+  },
+  {
+    "id": 47,
+    "english": "keep pace with",
+    "turkish": "ayak uydurmak",
+    "arabic": "يواكب"
+  },
+  {
+    "id": 48,
+    "english": "enlightenment",
+    "turkish": "aydınlanm(çağı)",
+    "arabic": "عصر التنوير"
+  },
+  {
+    "id": 49,
+    "english": "lighting fixtures",
+    "turkish": "aydınlanma aksesuarları",
+    "arabic": "تجهيزات الإضاءة"
+  },
+  {
+    "id": 50,
+    "english": "skylight",
+    "turkish": "aydınlatma penceresi",
+    "arabic": "نافذة سقفية"
+  },
+  {
+    "id": 51,
+    "english": "distinguish",
+    "turkish": "ayırt etmek",
+    "arabic": "يميّز"
+  },
+  {
+    "id": 52,
+    "english": "reserve",
+    "turkish": "ayırtmak, ertelemek",
+    "arabic": "يحجز، يؤجل"
+  },
+  {
+    "id": 53,
+    "english": "scarce",
+    "turkish": "az bulunur, nadir",
+    "arabic": "نادر"
+  },
+  {
+    "id": 54,
+    "english": "reduce",
+    "turkish": "azaltmak",
+    "arabic": "يقلّل"
+  },
+  {
+    "id": 55,
+    "english": "grant",
+    "turkish": "bağış, hibe",
+    "arabic": "منحة"
+  },
+  {
+    "id": 56,
+    "english": "copper",
+    "turkish": "bakır",
+    "arabic": "نحاس"
+  },
+  {
+    "id": 57,
+    "english": "harbour",
+    "turkish": "barındırmak, korumak, liman",
+    "arabic": "يأوي، ميناء"
+  },
+  {
+    "id": 58,
+    "english": "pressurize",
+    "turkish": "basınç yapmak",
+    "arabic": "يضغط"
+  },
+  {
+    "id": 59,
+    "english": "suppress",
+    "turkish": "bastırmak",
+    "arabic": "يقمع، يكبت"
+  },
+  {
+    "id": 60,
+    "english": "feat",
+    "turkish": "başarı",
+    "arabic": "إنجاز"
+  },
+  {
+    "id": 61,
+    "english": "outset",
+    "turkish": "başlangıç noktası",
+    "arabic": "البداية"
+  },
+  {
+    "id": 62,
+    "english": "trigger",
+    "turkish": "başlatmak, tetiklemek",
+    "arabic": "يطلق، يحفّز"
+  },
+  {
+    "id": 63,
+    "english": "swamp",
+    "turkish": "bataklık",
+    "arabic": "مستنقع"
+  },
+  {
+    "id": 64,
+    "english": "superstitious",
+    "turkish": "batıl inanç",
+    "arabic": "خرافي"
+  },
+  {
+    "id": 65,
+    "english": "based on",
+    "turkish": "being founded on, bir temele dayalı olmak",
+    "arabic": "مبني على"
+  },
+  {
+    "id": 66,
+    "english": "predictor",
+    "turkish": "belirleyici, ölçü",
+    "arabic": "مؤشر، عامل تنبؤ"
+  },
+  {
+    "id": 67,
+    "english": "vague",
+    "turkish": "belirsiz",
+    "arabic": "غامض"
+  },
+  {
+    "id": 68,
+    "english": "fauna",
+    "turkish": "belli bir bölgedeki hayvan topluluğu",
+    "arabic": "الحيوانات في منطقة معينة"
+  },
+  {
+    "id": 69,
+    "english": "analogy",
+    "turkish": "benzer, benzerlik",
+    "arabic": "تشابه، قياس"
+  },
+  {
+    "id": 70,
+    "english": "feedlot",
+    "turkish": "besi alanı",
+    "arabic": "حظيرة تسمين"
+  },
+  {
+    "id": 71,
+    "english": "nutrient",
+    "turkish": "besin, gıda, besleyici",
+    "arabic": "عنصر غذائي"
+  },
+  {
+    "id": 72,
+    "english": "nutritious",
+    "turkish": "besleyici",
+    "arabic": "مغذٍّ"
+  },
+  {
+    "id": 73,
+    "english": "reinforced concrete",
+    "turkish": "betonarme",
+    "arabic": "خرسانة مسلحة"
+  },
+  {
+    "id": 74,
+    "english": "bleach",
+    "turkish": "beyazlatıcı madde",
+    "arabic": "مادة مبيضة"
+  },
+  {
+    "id": 75,
+    "english": "pepper spray",
+    "turkish": "biber gazı",
+    "arabic": "رذاذ الفلفل"
+  },
+  {
+    "id": 76,
+    "english": "bug",
+    "turkish": "bilgisayarda hata, virüs, böcek",
+    "arabic": "خلل، فيروس، حشرة"
+  },
+  {
+    "id": 77,
+    "english": "science fiction",
+    "turkish": "bilim kurgu",
+    "arabic": "خيال علمي"
+  },
+  {
+    "id": 78,
+    "english": "interdisciplinary",
+    "turkish": "bilimler arası",
+    "arabic": "متعدد التخصصات"
+  },
+  {
+    "id": 79,
+    "english": "subconscious",
+    "turkish": "bilinçaltı",
+    "arabic": "اللاوعي"
+  },
+  {
+    "id": 80,
+    "english": "pier",
+    "turkish": "binada kolon",
+    "arabic": "عمود بنائي"
+  },
+  {
+    "id": 81,
+    "english": "allelopathy",
+    "turkish": "bir bitkinin ürettiği kimyasallarla diğer bir bitkinin gelişmesini engellemesi",
+    "arabic": "التضاد الكيميائي بين النباتات"
+  },
+  {
+    "id": 82,
+    "english": "consist of",
+    "turkish": "bir şeyden meydana gelmek",
+    "arabic": "يتكون من"
+  },
+  {
+    "id": 83,
+    "english": "try out",
+    "turkish": "bir şeyi denemek",
+    "arabic": "يجرب"
+  },
+  {
+    "id": 84,
+    "english": "denomination",
+    "turkish": "birim",
+    "arabic": "وحدة، فئة"
+  },
+  {
+    "id": 85,
+    "english": "adjacent",
+    "turkish": "bitişik olan",
+    "arabic": "مجاور"
+  },
+  {
+    "id": 86,
+    "english": "vegetation",
+    "turkish": "bitki örtüsü",
+    "arabic": "غطاء نباتي"
+  },
+  {
+    "id": 87,
+    "english": "plant",
+    "turkish": "bitki, fabrika",
+    "arabic": "نبات، مصنع"
+  },
+  {
+    "id": 88,
+    "english": "compost",
+    "turkish": "bitkilerin veya mutfak artıklarının çürümesiyle elde edilen gübre",
+    "arabic": "سماد عضوي"
+  },
+  {
+    "id": 89,
+    "english": "vegetative",
+    "turkish": "bitkisel",
+    "arabic": "نباتي"
+  },
+  {
+    "id": 90,
+    "english": "congestion",
+    "turkish": "blockage, tıkanıklık, sıkışıklık",
+    "arabic": "احتقان، انسداد"
+  },
+  {
+    "id": 91,
+    "english": "strait",
+    "turkish": "boğaz",
+    "arabic": "مضيق"
+  },
+  {
+    "id": 92,
+    "english": "plentiful",
+    "turkish": "bol, bereketli",
+    "arabic": "وفير"
+  },
+  {
+    "id": 93,
+    "english": "abundance",
+    "turkish": "bolluk",
+    "arabic": "وفرة"
+  },
+  {
+    "id": 94,
+    "english": "reinforce",
+    "turkish": "bolster, support, güçlendirmek",
+    "arabic": "يعزز، يقوّي"
+  },
+  {
+    "id": 95,
+    "english": "owe",
+    "turkish": "borçlu olmak",
+    "arabic": "يدين بـ"
+  },
+  {
+    "id": 96,
+    "english": "pipeline",
+    "turkish": "boru hattı",
+    "arabic": "خط أنابيب"
+  },
+  {
+    "id": 97,
+    "english": "dye",
+    "turkish": "boya",
+    "arabic": "صبغة"
+  },
+  {
+    "id": 98,
+    "english": "longitude",
+    "turkish": "boylam, meridyen",
+    "arabic": "خط طول"
+  },
+  {
+    "id": 99,
+    "english": "deteriorate",
+    "turkish": "bozulmak, kötüleşmek",
+    "arabic": "يتدهور"
+  },
+  {
+    "id": 100,
+    "english": "pristine",
+    "turkish": "bozulmamış, saf",
+    "arabic": "نقي، بكر"
+  },
+  {
+    "id": 101,
+    "english": "insecticide",
+    "turkish": "böcek ilacı",
+    "arabic": "مبيد حشري"
+  },
+  {
+    "id": 102,
+    "english": "zone",
+    "turkish": "bölge, mıntıka",
+    "arabic": "منطقة"
+  },
+  {
+    "id": 103,
+    "english": "vast",
+    "turkish": "broad, wide, çok geniş",
+    "arabic": "شاسع، واسع"
+  },
+  {
+    "id": 104,
+    "english": "steam room",
+    "turkish": "buhar odası",
+    "arabic": "غرفة بخار"
+  },
+  {
+    "id": 105,
+    "english": "evaporation",
+    "turkish": "buharlaşma",
+    "arabic": "تبخر"
+  },
+  {
+    "id": 106,
+    "english": "evaporate",
+    "turkish": "buharlaşmak",
+    "arabic": "يتبخر"
+  },
+  {
+    "id": 107,
+    "english": "emulsify",
+    "turkish": "bulamaç haline getirmek",
+    "arabic": "يستحلب"
+  },
+  {
+    "id": 108,
+    "english": "blur",
+    "turkish": "bulandırmak",
+    "arabic": "يشوّش، يطمس"
+  },
+  {
+    "id": 109,
+    "english": "de-icing system",
+    "turkish": "buz çözücü sistem",
+    "arabic": "نظام إزالة الجليد"
+  },
+  {
+    "id": 110,
+    "english": "ice sheet",
+    "turkish": "buz tabakası",
+    "arabic": "غطاء جليدي"
+  },
+  {
+    "id": 111,
+    "english": "glacier",
+    "turkish": "buzul",
+    "arabic": "نهر جليدي"
+  },
+  {
+    "id": 112,
+    "english": "entire",
+    "turkish": "bütün, tam",
+    "arabic": "كامل"
+  },
+  {
+    "id": 113,
+    "english": "catastrophe",
+    "turkish": "büyük felaket",
+    "arabic": "كارثة كبرى"
+  },
+  {
+    "id": 114,
+    "english": "substantial",
+    "turkish": "büyük, sağlam, önemli",
+    "arabic": "كبير، جوهري"
+  },
+  {
+    "id": 115,
+    "english": "magnitude",
+    "turkish": "büyüklük, boy",
+    "arabic": "حجم، مقدار"
+  },
+  {
+    "id": 116,
+    "english": "expand",
+    "turkish": "büyüme, genişleme",
+    "arabic": "يتوسع"
+  },
+  {
+    "id": 117,
+    "english": "thrive",
+    "turkish": "büyümek, gelişmek",
+    "arabic": "يزدهر"
+  },
+  {
+    "id": 118,
+    "english": "magnify",
+    "turkish": "büyütmek",
+    "arabic": "يكبّر"
+  },
+  {
+    "id": 119,
+    "english": "live",
+    "turkish": "canlı",
+    "arabic": "حي"
+  },
+  {
+    "id": 120,
+    "english": "species",
+    "turkish": "canlı türleri",
+    "arabic": "أنواع الكائنات الحية"
+  },
+  {
+    "id": 121,
+    "english": "brisk",
+    "turkish": "canlı, hareketli",
+    "arabic": "نشيط، حيوي"
+  },
+  {
+    "id": 122,
+    "english": "spy",
+    "turkish": "casus",
+    "arabic": "جاسوس"
+  },
+  {
+    "id": 123,
+    "english": "give rise to",
+    "turkish": "cause, induce, bring about, neden olmak, yol açmak",
+    "arabic": "يؤدي إلى، يسبب"
+  },
+  {
+    "id": 124,
+    "english": "dare to",
+    "turkish": "cesaret etmek",
+    "arabic": "يجرؤ على"
+  },
+  {
+    "id": 125,
+    "english": "apparatus",
+    "turkish": "cihaz",
+    "arabic": "جهاز"
+  },
+  {
+    "id": 126,
+    "english": "switch off",
+    "turkish": "cihazı kapatmak",
+    "arabic": "يطفئ الجهاز"
+  },
+  {
+    "id": 127,
+    "english": "pick up",
+    "turkish": "collect, acquire, toplamak, edinmek",
+    "arabic": "يجمع، يكتسب"
+  },
+  {
+    "id": 128,
+    "english": "enforce",
+    "turkish": "compel, zorlamak",
+    "arabic": "يفرض، يُلزم"
+  },
+  {
+    "id": 129,
+    "english": "circumstance",
+    "turkish": "condition, situation, koşul, durum",
+    "arabic": "ظرف، حالة"
+  },
+  {
+    "id": 130,
+    "english": "uphold",
+    "turkish": "confirm, onaylamak, tasdik etmek",
+    "arabic": "يؤكد، يصادق على"
+  },
+  {
+    "id": 131,
+    "english": "link",
+    "turkish": "connect, attach, bağlantı oluşturmak",
+    "arabic": "يربط"
+  },
+  {
+    "id": 132,
+    "english": "constantly",
+    "turkish": "continuously, continually, sürekli olarak",
+    "arabic": "باستمرار"
+  },
+  {
+    "id": 133,
+    "english": "plausibly",
+    "turkish": "credibly, feasibly, akla yatkın bir şekilde, inandırıcı bir şekilde",
+    "arabic": "بشكل معقول ومقنع"
+  },
+  {
+    "id": 134,
+    "english": "exertion",
+    "turkish": "çaba, gayret, tazyik",
+    "arabic": "جهد، مشقة"
+  },
+  {
+    "id": 135,
+    "english": "attempt",
+    "turkish": "çabalamak, girişmek, teşebbüs etmek",
+    "arabic": "يحاول، يسعى"
+  },
+  {
+    "id": 136,
+    "english": "gravel",
+    "turkish": "çakıl",
+    "arabic": "حصى"
+  },
+  {
+    "id": 137,
+    "english": "pebble",
+    "turkish": "çakıl taşı",
+    "arabic": "حصاة"
+  },
+  {
+    "id": 138,
+    "english": "harness",
+    "turkish": "çalışacak duruma getirmek, kullanmak",
+    "arabic": "يستغل، يسخّر"
+  },
+  {
+    "id": 139,
+    "english": "collision",
+    "turkish": "çarpışma",
+    "arabic": "تصادم"
+  },
+  {
+    "id": 140,
+    "english": "strike",
+    "turkish": "çarpmak, vurmak",
+    "arabic": "يصطدم، يضرب"
+  },
+  {
+    "id": 141,
+    "english": "crack",
+    "turkish": "çatlak, çatlamak",
+    "arabic": "شق، يتشقق"
+  },
+  {
+    "id": 142,
+    "english": "nucleus",
+    "turkish": "çekirdek",
+    "arabic": "نواة"
+  },
+  {
+    "id": 143,
+    "english": "traction",
+    "turkish": "çekme, çekilme",
+    "arabic": "جر، سحب"
+  },
+  {
+    "id": 144,
+    "english": "diversity",
+    "turkish": "çeşitlilik",
+    "arabic": "تنوع"
+  },
+  {
+    "id": 145,
+    "english": "versatility",
+    "turkish": "çeşitlilik, çok yönlülük",
+    "arabic": "تنوع، تعدد المهارات"
+  },
+  {
+    "id": 146,
+    "english": "range",
+    "turkish": "çeşitlilik, menzil",
+    "arabic": "تنوع، مدى"
+  },
+  {
+    "id": 147,
+    "english": "avalanche",
+    "turkish": "çığ",
+    "arabic": "انهيار ثلجي"
+  },
+  {
+    "id": 148,
+    "english": "break through",
+    "turkish": "çığır açmak, ortaya çıkmak, görünmek",
+    "arabic": "يحقق اختراقاً، يظهر"
+  },
+  {
+    "id": 149,
+    "english": "derive from",
+    "turkish": "çıkarım yapmak",
+    "arabic": "يستنتج من"
+  },
+  {
+    "id": 150,
+    "english": "florescence",
+    "turkish": "çiçeklenme, başarı dönemi",
+    "arabic": "ازدهار، فترة نجاح"
+  },
+  {
+    "id": 151,
+    "english": "livestock",
+    "turkish": "çiftlik hayvanları",
+    "arabic": "المواشي"
+  },
+  {
+    "id": 152,
+    "english": "take a huge step forward to",
+    "turkish": "çok büyük ilerleme kaydetmek",
+    "arabic": "يحقق تقدماً كبيراً"
+  },
+  {
+    "id": 153,
+    "english": "enormous",
+    "turkish": "çok büyük, muazzam",
+    "arabic": "ضخم جداً"
+  },
+  {
+    "id": 154,
+    "english": "numerous",
+    "turkish": "çok sayıda",
+    "arabic": "عديد"
+  },
+  {
+    "id": 155,
+    "english": "precipitation",
+    "turkish": "çökelme, yere düşme, yağma",
+    "arabic": "ترسيب، هطول"
+  },
+  {
+    "id": 156,
+    "english": "soluble",
+    "turkish": "çözülebilir",
+    "arabic": "قابل للذوبان"
+  },
+  {
+    "id": 157,
+    "english": "bar",
+    "turkish": "çubuk",
+    "arabic": "قضيب"
+  },
+  {
+    "id": 158,
+    "english": "rot",
+    "turkish": "çürümek",
+    "arabic": "يتعفن"
+  },
+  {
+    "id": 159,
+    "english": "disperse",
+    "turkish": "dağıtmak, yaymak",
+    "arabic": "يبعثر، ينشر"
+  },
+  {
+    "id": 160,
+    "english": "dissipate",
+    "turkish": "dağıtmak, yok etmek (olmak)",
+    "arabic": "يبدد، يتلاشى"
+  },
+  {
+    "id": 161,
+    "english": "afterwards",
+    "turkish": "daha sonra",
+    "arabic": "فيما بعد"
+  },
+  {
+    "id": 162,
+    "english": "ingeniously",
+    "turkish": "dahice",
+    "arabic": "ببراعة"
+  },
+  {
+    "id": 163,
+    "english": "impair",
+    "turkish": "damage, cripple, harm, sakatlamak",
+    "arabic": "يضر، يعيق"
+  },
+  {
+    "id": 164,
+    "english": "resistant",
+    "turkish": "dayanıklı, dirençli",
+    "arabic": "مقاوم"
+  },
+  {
+    "id": 165,
+    "english": "durability",
+    "turkish": "dayanıklılık",
+    "arabic": "متانة"
+  },
+  {
+    "id": 166,
+    "english": "decline",
+    "turkish": "decrease, diminish, azalma, küçülme",
+    "arabic": "انخفاض، تراجع"
+  },
+  {
+    "id": 167,
+    "english": "value",
+    "turkish": "değer vermek, önemli görmek",
+    "arabic": "يقدّر"
+  },
+  {
+    "id": 168,
+    "english": "asset",
+    "turkish": "değer, varlık, servet",
+    "arabic": "أصل، ثروة"
+  },
+  {
+    "id": 169,
+    "english": "evolve",
+    "turkish": "değişmek, evrim geçirmek",
+    "arabic": "يتطور"
+  },
+  {
+    "id": 170,
+    "english": "put off",
+    "turkish": "delay, postpone, ertelemek",
+    "arabic": "يؤجل"
+  },
+  {
+    "id": 171,
+    "english": "be made up of",
+    "turkish": "-den meydana gelmek, oluşmak",
+    "arabic": "يتكون من"
+  },
+  {
+    "id": 172,
+    "english": "onwards",
+    "turkish": "-den sonra, sonrasında",
+    "arabic": "بعد ذلك، فصاعداً"
+  },
+  {
+    "id": 173,
+    "english": "in excess of",
+    "turkish": "-den yukarı, -den fazla",
+    "arabic": "أكثر من"
+  },
+  {
+    "id": 174,
+    "english": "subject",
+    "turkish": "denek, kobay",
+    "arabic": "عيّنة اختبار"
+  },
+  {
+    "id": 175,
+    "english": "empirical",
+    "turkish": "deneysel",
+    "arabic": "تجريبي"
+  },
+  {
+    "id": 176,
+    "english": "empirical",
+    "turkish": "deneysel",
+    "arabic": "تجريبي"
+  },
+  {
+    "id": 177,
+    "english": "seabed",
+    "turkish": "deniz dibi",
+    "arabic": "قاع البحر"
+  },
+  {
+    "id": 178,
+    "english": "overseas",
+    "turkish": "denizaşırı",
+    "arabic": "ما وراء البحار"
+  },
+  {
+    "id": 179,
+    "english": "marine",
+    "turkish": "denizle ilgili",
+    "arabic": "بحري"
+  },
+  {
+    "id": 180,
+    "english": "reliable",
+    "turkish": "dependable, trustable, güvenilir, sağlam",
+    "arabic": "موثوق، يعتمد عليه"
+  },
+  {
+    "id": 181,
+    "english": "profound",
+    "turkish": "derin, engin, geniş",
+    "arabic": "عميق"
+  },
+  {
+    "id": 182,
+    "english": "come from",
+    "turkish": "derive from, -den kaynaklanmak",
+    "arabic": "ينبع من"
+  },
+  {
+    "id": 183,
+    "english": "back up",
+    "turkish": "destekleme",
+    "arabic": "دعم"
+  },
+  {
+    "id": 184,
+    "english": "gigantic",
+    "turkish": "devasa, çok büyük",
+    "arabic": "ضخم جداً"
+  },
+  {
+    "id": 185,
+    "english": "era",
+    "turkish": "devir, çağ",
+    "arabic": "عصر، حقبة"
+  },
+  {
+    "id": 186,
+    "english": "revolution",
+    "turkish": "devrim",
+    "arabic": "ثورة"
+  },
+  {
+    "id": 187,
+    "english": "outwards",
+    "turkish": "dışa doğru",
+    "arabic": "إلى الخارج"
+  },
+  {
+    "id": 188,
+    "english": "persistency",
+    "turkish": "direnme, ısrar",
+    "arabic": "إصرار، مثابرة"
+  },
+  {
+    "id": 189,
+    "english": "find out",
+    "turkish": "discover, detect, bulmak, keşfetmek",
+    "arabic": "يكتشف"
+  },
+  {
+    "id": 190,
+    "english": "controversial",
+    "turkish": "contradictive, tartışmalı",
+    "arabic": "مثير للجدل"
+  },
+  {
+    "id": 191,
+    "english": "naturalist",
+    "turkish": "doğa bilimci",
+    "arabic": "عالم طبيعة"
+  },
+  {
+    "id": 192,
+    "english": "habitat",
+    "turkish": "doğal çevre",
+    "arabic": "بيئة طبيعية"
+  },
+  {
+    "id": 193,
+    "english": "verify",
+    "turkish": "doğrulamak",
+    "arabic": "يتحقق من"
+  },
+  {
+    "id": 194,
+    "english": "gift",
+    "turkish": "doğuştan gelen kabiliyet",
+    "arabic": "موهبة فطرية"
+  },
+  {
+    "id": 195,
+    "english": "texture",
+    "turkish": "doku, dokunuş",
+    "arabic": "ملمس، نسيج"
+  },
+  {
+    "id": 196,
+    "english": "touch screen",
+    "turkish": "dokunmatik ekran",
+    "arabic": "شاشة لمس"
+  },
+  {
+    "id": 197,
+    "english": "accordingly",
+    "turkish": "dolayısıyla",
+    "arabic": "وبناءً على ذلك"
+  },
+  {
+    "id": 198,
+    "english": "fill",
+    "turkish": "doldurmak",
+    "arabic": "يملأ"
+  },
+  {
+    "id": 199,
+    "english": "hail",
+    "turkish": "dolu",
+    "arabic": "برَد"
+  },
+  {
+    "id": 200,
+    "english": "effusion",
+    "turkish": "dökme, akıtma, serpme",
+    "arabic": "انسكاب، تسرب"
+  },
+  {
+    "id": 201,
+    "english": "debris",
+    "turkish": "döküntü, enkaz",
+    "arabic": "حطام"
+  },
+  {
+    "id": 202,
+    "english": "spin",
+    "turkish": "döndürmek, çevirmek",
+    "arabic": "يدور، يلف"
+  },
+  {
+    "id": 203,
+    "english": "spinning",
+    "turkish": "dönme, savurma",
+    "arabic": "دوران"
+  },
+  {
+    "id": 204,
+    "english": "convert",
+    "turkish": "dönüştürmek",
+    "arabic": "يحوّل"
+  },
+  {
+    "id": 205,
+    "english": "drainage",
+    "turkish": "drenaj, su akıtma sistemi",
+    "arabic": "نظام الصرف"
+  },
+  {
+    "id": 206,
+    "english": "fume",
+    "turkish": "duman",
+    "arabic": "دخان، بخار"
+  },
+  {
+    "id": 207,
+    "english": "stagnant",
+    "turkish": "durgun",
+    "arabic": "راكد"
+  },
+  {
+    "id": 208,
+    "english": "climate",
+    "turkish": "durum, iklim",
+    "arabic": "مناخ"
+  },
+  {
+    "id": 209,
+    "english": "configure",
+    "turkish": "düzenlemek, biçim vermek",
+    "arabic": "يهيّئ، يشكّل"
+  },
+  {
+    "id": 210,
+    "english": "turn into / transform",
+    "turkish": "-e dönüştürmek",
+    "arabic": "يتحول إلى"
+  },
+  {
+    "id": 211,
+    "english": "in accordance with",
+    "turkish": "-e göre, bakarak, uygun olarak",
+    "arabic": "وفقاً لـ"
+  },
+  {
+    "id": 212,
+    "english": "with reference of/to",
+    "turkish": "-e göre, -ye atfen",
+    "arabic": "بالإشارة إلى"
+  },
+  {
+    "id": 213,
+    "english": "convenient",
+    "turkish": "easily, accessible, uygun",
+    "arabic": "مناسب، سهل الوصول"
+  },
+  {
+    "id": 214,
+    "english": "exhaust",
+    "turkish": "egzoz",
+    "arabic": "عادم"
+  },
+  {
+    "id": 215,
+    "english": "warp",
+    "turkish": "eğilmek, dönmek, bükülmek",
+    "arabic": "ينحني، يلتوي"
+  },
+  {
+    "id": 216,
+    "english": "gradient",
+    "turkish": "eğim, meyil",
+    "arabic": "ميل، انحدار"
+  },
+  {
+    "id": 217,
+    "english": "appendage",
+    "turkish": "eklenti, aksesuar",
+    "arabic": "ملحق"
+  },
+  {
+    "id": 218,
+    "english": "generation",
+    "turkish": "elektrik üretimi",
+    "arabic": "توليد الكهرباء"
+  },
+  {
+    "id": 219,
+    "english": "incorporate",
+    "turkish": "embody, include, içermek",
+    "arabic": "يتضمن، يدمج"
+  },
+  {
+    "id": 220,
+    "english": "ensure",
+    "turkish": "emin olmak",
+    "arabic": "يضمن"
+  },
+  {
+    "id": 221,
+    "english": "absorb",
+    "turkish": "emmek",
+    "arabic": "يمتص"
+  },
+  {
+    "id": 222,
+    "english": "optimal",
+    "turkish": "en uygun",
+    "arabic": "أمثل"
+  },
+  {
+    "id": 223,
+    "english": "breadth",
+    "turkish": "en, genişlik",
+    "arabic": "عرض، اتساع"
+  },
+  {
+    "id": 224,
+    "english": "energy dissipation",
+    "turkish": "enerji kaybı",
+    "arabic": "فقدان الطاقة"
+  },
+  {
+    "id": 225,
+    "english": "wreck",
+    "turkish": "enkaz",
+    "arabic": "حطام"
+  },
+  {
+    "id": 226,
+    "english": "thaw",
+    "turkish": "erime, çözülme",
+    "arabic": "ذوبان"
+  },
+  {
+    "id": 227,
+    "english": "melt",
+    "turkish": "erimek",
+    "arabic": "يذوب"
+  },
+  {
+    "id": 228,
+    "english": "molten",
+    "turkish": "erimiş, sıvılaşmış",
+    "arabic": "منصهر"
+  },
+  {
+    "id": 229,
+    "english": "reinstate",
+    "turkish": "eski haline getirmek",
+    "arabic": "يعيد إلى وضعه السابق"
+  },
+  {
+    "id": 230,
+    "english": "impact",
+    "turkish": "etki",
+    "arabic": "تأثير"
+  },
+  {
+    "id": 231,
+    "english": "telling",
+    "turkish": "etkili, belirgin",
+    "arabic": "مؤثر، واضح"
+  },
+  {
+    "id": 232,
+    "english": "efficiency",
+    "turkish": "etkinlik, verimlilik",
+    "arabic": "كفاءة"
+  },
+  {
+    "id": 233,
+    "english": "vicinity",
+    "turkish": "etraf, çevre",
+    "arabic": "جوار، محيط"
+  },
+  {
+    "id": 234,
+    "english": "phase",
+    "turkish": "evre, safha",
+    "arabic": "مرحلة"
+  },
+  {
+    "id": 235,
+    "english": "universal",
+    "turkish": "evrensel",
+    "arabic": "عالمي، كوني"
+  },
+  {
+    "id": 236,
+    "english": "evolution",
+    "turkish": "evrim",
+    "arabic": "تطور، نظرية التطور"
+  },
+  {
+    "id": 237,
+    "english": "leave out",
+    "turkish": "exclude from, hariç bırakmak",
+    "arabic": "يستثني"
+  },
+  {
+    "id": 238,
+    "english": "erupt",
+    "turkish": "explode, burst, blow up, patlamak, püskürmek (yanardağ)",
+    "arabic": "ينفجر، يثور (بركان)"
+  },
+  {
+    "id": 239,
+    "english": "comprehensively",
+    "turkish": "extensively, thoroughly, kapsamlı",
+    "arabic": "بشكل شامل"
+  },
+  {
+    "id": 240,
+    "english": "put out",
+    "turkish": "extinguish, söndürmek",
+    "arabic": "يطفئ"
+  },
+  {
+    "id": 241,
+    "english": "wastefully",
+    "turkish": "extravagantly, savurganca",
+    "arabic": "بإسراف"
+  },
+  {
+    "id": 242,
+    "english": "excessively",
+    "turkish": "extremely, largely, aşırı ölçüde, abartılı",
+    "arabic": "بإفراط"
+  },
+  {
+    "id": 243,
+    "english": "sizeable",
+    "turkish": "fairly, largely, oldukça büyük",
+    "arabic": "كبير نوعاً ما"
+  },
+  {
+    "id": 244,
+    "english": "overfed",
+    "turkish": "fazla besili",
+    "arabic": "مفرط التغذية"
+  },
+  {
+    "id": 245,
+    "english": "launcher",
+    "turkish": "fırlatıcı",
+    "arabic": "جهاز إطلاق"
+  },
+  {
+    "id": 246,
+    "english": "launch",
+    "turkish": "fırlatmak, atmak",
+    "arabic": "يطلق"
+  },
+  {
+    "id": 247,
+    "english": "ore",
+    "turkish": "filiz, cevher",
+    "arabic": "خام"
+  },
+  {
+    "id": 248,
+    "english": "germination",
+    "turkish": "filizlenme, çimlenme",
+    "arabic": "إنبات"
+  },
+  {
+    "id": 249,
+    "english": "pursue",
+    "turkish": "follow, chase, go after, takip etmek",
+    "arabic": "يتابع، يلاحق"
+  },
+  {
+    "id": 250,
+    "english": "brake",
+    "turkish": "fren",
+    "arabic": "مكبح، فرامل"
+  },
+  {
+    "id": 251,
+    "english": "carry out",
+    "turkish": "fulfill, icra etmek, yapmak",
+    "arabic": "ينفذ، يقوم بـ"
+  },
+  {
+    "id": 252,
+    "english": "dart",
+    "turkish": "füze",
+    "arabic": "سهم، صاروخ صغير"
+  },
+  {
+    "id": 253,
+    "english": "accumulate",
+    "turkish": "gather, topla(n)mak, çoğalmak",
+    "arabic": "يتراكم، يجمع"
+  },
+  {
+    "id": 254,
+    "english": "gas-laden",
+    "turkish": "gaz yüklü",
+    "arabic": "محمّل بالغاز"
+  },
+  {
+    "id": 255,
+    "english": "elapse",
+    "turkish": "geçen zaman, (süre) geçmek",
+    "arabic": "ينقضي (الوقت)"
+  },
+  {
+    "id": 256,
+    "english": "stringer",
+    "turkish": "geçirgen kaya",
+    "arabic": "صخر نافذ"
+  },
+  {
+    "id": 257,
+    "english": "tidal",
+    "turkish": "gel gitle ilgili",
+    "arabic": "متعلق بالمد والجزر"
+  },
+  {
+    "id": 258,
+    "english": "conventional",
+    "turkish": "geleneksel",
+    "arabic": "تقليدي"
+  },
+  {
+    "id": 259,
+    "english": "tide",
+    "turkish": "gel-git",
+    "arabic": "مد وجزر"
+  },
+  {
+    "id": 260,
+    "english": "proceeds",
+    "turkish": "gelir, hasılat",
+    "arabic": "عائدات"
+  },
+  {
+    "id": 261,
+    "english": "advanced",
+    "turkish": "gelişmiş, ileri düzeyde",
+    "arabic": "متقدم"
+  },
+  {
+    "id": 262,
+    "english": "vast",
+    "turkish": "geniş",
+    "arabic": "واسع"
+  },
+  {
+    "id": 263,
+    "english": "large-scale",
+    "turkish": "geniş çaplı",
+    "arabic": "واسع النطاق"
+  },
+  {
+    "id": 264,
+    "english": "on a large scale",
+    "turkish": "geniş çapta",
+    "arabic": "على نطاق واسع"
+  },
+  {
+    "id": 265,
+    "english": "far-reaching",
+    "turkish": "geniş kapsamlı, yaygın",
+    "arabic": "بعيد المدى، واسع الأثر"
+  },
+  {
+    "id": 266,
+    "english": "requirement",
+    "turkish": "gereksinim, ihtiyaç, talep",
+    "arabic": "متطلب، احتياج"
+  },
+  {
+    "id": 267,
+    "english": "renewable",
+    "turkish": "geri dönüştürülebilir, yenilenebilir",
+    "arabic": "متجدد، قابل لإعادة التدوير"
+  },
+  {
+    "id": 268,
+    "english": "heavens",
+    "turkish": "gökyüzü, sema",
+    "arabic": "السماء"
+  },
+  {
+    "id": 269,
+    "english": "pond",
+    "turkish": "gölcük, gölet",
+    "arabic": "بركة"
+  },
+  {
+    "id": 270,
+    "english": "relative to",
+    "turkish": "görece",
+    "arabic": "نسبة إلى"
+  },
+  {
+    "id": 271,
+    "english": "relativity",
+    "turkish": "görecelik",
+    "arabic": "النسبية"
+  },
+  {
+    "id": 272,
+    "english": "observation",
+    "turkish": "gözlem",
+    "arabic": "ملاحظة"
+  },
+  {
+    "id": 273,
+    "english": "fertilize",
+    "turkish": "manure, gübre",
+    "arabic": "يسمّد"
+  },
+  {
+    "id": 274,
+    "english": "booster",
+    "turkish": "güçlendirici",
+    "arabic": "معزز"
+  },
+  {
+    "id": 275,
+    "english": "sunbeam",
+    "turkish": "güneş ışını",
+    "arabic": "شعاع شمس"
+  },
+  {
+    "id": 276,
+    "english": "solar",
+    "turkish": "güneşle ilgili",
+    "arabic": "شمسي"
+  },
+  {
+    "id": 277,
+    "english": "fragrant",
+    "turkish": "güzel kokulu",
+    "arabic": "عطري، طيب الرائحة"
+  },
+  {
+    "id": 278,
+    "english": "alleviate",
+    "turkish": "hafifletmek, azaltmak",
+    "arabic": "يخفف"
+  },
+  {
+    "id": 279,
+    "english": "govern",
+    "turkish": "hakim olmak, yönetmek",
+    "arabic": "يحكم، يتحكم"
+  },
+  {
+    "id": 280,
+    "english": "sort out",
+    "turkish": "halletmek, sınıflandırmak",
+    "arabic": "يصنّف، يرتب، يحل"
+  },
+  {
+    "id": 281,
+    "english": "scarcely",
+    "turkish": "hardly, barely, neredeyse hiç",
+    "arabic": "بالكاد"
+  },
+  {
+    "id": 282,
+    "english": "motion",
+    "turkish": "hareket",
+    "arabic": "حركة"
+  },
+  {
+    "id": 283,
+    "english": "rate of damage",
+    "turkish": "hasar oranı",
+    "arabic": "معدل الضرر"
+  },
+  {
+    "id": 284,
+    "english": "harvest",
+    "turkish": "hasat etme",
+    "arabic": "يحصد"
+  },
+  {
+    "id": 285,
+    "english": "vulnerable",
+    "turkish": "hassas, zayıf",
+    "arabic": "ضعيف، معرض للخطر"
+  },
+  {
+    "id": 286,
+    "english": "airship",
+    "turkish": "hava gemisi",
+    "arabic": "منطاد"
+  },
+  {
+    "id": 287,
+    "english": "aviation",
+    "turkish": "havacılık",
+    "arabic": "طيران"
+  },
+  {
+    "id": 288,
+    "english": "aerial",
+    "turkish": "havada bulunan, havaya ait",
+    "arabic": "جوي"
+  },
+  {
+    "id": 289,
+    "english": "aerial parts",
+    "turkish": "havayla temas eden bölümler",
+    "arabic": "الأجزاء التي تلامس الهواء"
+  },
+  {
+    "id": 290,
+    "english": "repository",
+    "turkish": "havuz, basin, ambar, depo",
+    "arabic": "مستودع، خزان"
+  },
+  {
+    "id": 291,
+    "english": "life-threatening",
+    "turkish": "hayatı tehdit eden",
+    "arabic": "يهدد الحياة"
+  },
+  {
+    "id": 292,
+    "english": "survive",
+    "turkish": "hayatta kalmak",
+    "arabic": "ينجو، يبقى على قيد الحياة"
+  },
+  {
+    "id": 293,
+    "english": "considerable",
+    "turkish": "hayli, çok",
+    "arabic": "كبير، معتبر"
+  },
+  {
+    "id": 294,
+    "english": "precast concrete",
+    "turkish": "hazır beton",
+    "arabic": "خرسانة جاهزة"
+  },
+  {
+    "id": 295,
+    "english": "acre",
+    "turkish": "hektar",
+    "arabic": "فدان (أكر)"
+  },
+  {
+    "id": 296,
+    "english": "far and wide",
+    "turkish": "ubiquitous, her yerde",
+    "arabic": "في كل مكان"
+  },
+  {
+    "id": 297,
+    "english": "inborn",
+    "turkish": "hereditary, irsi, kalıtsal",
+    "arabic": "وراثي، فطري"
+  },
+  {
+    "id": 298,
+    "english": "tally",
+    "turkish": "hesap, çetele",
+    "arabic": "حساب، عد"
+  },
+  {
+    "id": 299,
+    "english": "pace",
+    "turkish": "hız, adım",
+    "arabic": "سرعة، خطوة"
+  },
+  {
+    "id": 300,
+    "english": "velocity",
+    "turkish": "hız, sürat",
+    "arabic": "سرعة"
+  },
+  {
+    "id": 301,
+    "english": "accelerate",
+    "turkish": "hızlandırmak",
+    "arabic": "يسرّع"
+  },
+  {
+    "id": 302,
+    "english": "acceleration",
+    "turkish": "hızlanma",
+    "arabic": "تسارع"
+  },
+  {
+    "id": 303,
+    "english": "swift",
+    "turkish": "hızlı",
+    "arabic": "سريع"
+  },
+  {
+    "id": 304,
+    "english": "whirlwind",
+    "turkish": "hortum",
+    "arabic": "إعصار، زوبعة"
+  },
+  {
+    "id": 305,
+    "english": "pasture",
+    "turkish": "hububat, tahıl",
+    "arabic": "مرعى، حبوب علف"
+  },
+  {
+    "id": 306,
+    "english": "cytological",
+    "turkish": "hücreye ilişkin",
+    "arabic": "متعلق بالخلايا"
+  },
+  {
+    "id": 307,
+    "english": "temperate",
+    "turkish": "ılıman",
+    "arabic": "معتدل (مناخ)"
+  },
+  {
+    "id": 308,
+    "english": "on the verge of",
+    "turkish": "-ın kenarında, eşiğinde",
+    "arabic": "على وشك"
+  },
+  {
+    "id": 309,
+    "english": "conduction",
+    "turkish": "ısının katı maddelerde parçacıktan parçacığa geçerek iletilmesi",
+    "arabic": "التوصيل الحراري"
+  },
+  {
+    "id": 310,
+    "english": "luminescence",
+    "turkish": "ışıldama, parıldama",
+    "arabic": "توهج، تلألؤ"
+  },
+  {
+    "id": 311,
+    "english": "beam",
+    "turkish": "ışın",
+    "arabic": "شعاع"
+  },
+  {
+    "id": 312,
+    "english": "instinct",
+    "turkish": "iç güdü",
+    "arabic": "غريزة"
+  },
+  {
+    "id": 313,
+    "english": "insert",
+    "turkish": "içine sokmak",
+    "arabic": "يُدخل"
+  },
+  {
+    "id": 314,
+    "english": "assert",
+    "turkish": "iddia etmek",
+    "arabic": "يؤكد، يزعم"
+  },
+  {
+    "id": 315,
+    "english": "back and forth",
+    "turkish": "ileri geri",
+    "arabic": "ذهاباً وإياباً"
+  },
+  {
+    "id": 316,
+    "english": "conductive",
+    "turkish": "iletken, geçirgen",
+    "arabic": "موصل"
+  },
+  {
+    "id": 317,
+    "english": "convey",
+    "turkish": "iletmek, taşımak, nakletmek",
+    "arabic": "ينقل، يوصل"
+  },
+  {
+    "id": 318,
+    "english": "inhuman",
+    "turkish": "ilk, başlangıç",
+    "arabic": "بداية، انطلاق"
+  },
+  {
+    "id": 319,
+    "english": "instantly",
+    "turkish": "immediately, suddenly, hemen",
+    "arabic": "فوراً"
+  },
+  {
+    "id": 320,
+    "english": "exploration",
+    "turkish": "inceleme, araştırma",
+    "arabic": "استكشاف"
+  },
+  {
+    "id": 321,
+    "english": "descend",
+    "turkish": "inmek, alçalmak, güneşin batması",
+    "arabic": "ينزل، يغيب (الشمس)"
+  },
+  {
+    "id": 322,
+    "english": "human genome",
+    "turkish": "insan genleri",
+    "arabic": "الجينوم البشري"
+  },
+  {
+    "id": 323,
+    "english": "inhuman",
+    "turkish": "insanlık dışı",
+    "arabic": "غير إنساني"
+  },
+  {
+    "id": 324,
+    "english": "humanoid",
+    "turkish": "insansı robot",
+    "arabic": "روبوت شبيه بالإنسان"
+  },
+  {
+    "id": 325,
+    "english": "unmanned",
+    "turkish": "insansız",
+    "arabic": "بدون طاقم، آلي"
+  },
+  {
+    "id": 326,
+    "english": "comprehensibly",
+    "turkish": "intelligibly, anlaşılabilir şekilde",
+    "arabic": "بشكل مفهوم"
+  },
+  {
+    "id": 327,
+    "english": "boulder",
+    "turkish": "iri kaya parçası",
+    "arabic": "صخرة كبيرة"
+  },
+  {
+    "id": 328,
+    "english": "soot",
+    "turkish": "is, kurum",
+    "arabic": "سخام، هباب"
+  },
+  {
+    "id": 329,
+    "english": "imported",
+    "turkish": "ithal edilmiş",
+    "arabic": "مستورد"
+  },
+  {
+    "id": 330,
+    "english": "vine-ripe",
+    "turkish": "iyice olmuş",
+    "arabic": "ناضج جيداً على الكرمة"
+  },
+  {
+    "id": 331,
+    "english": "insulate",
+    "turkish": "izole etmek",
+    "arabic": "يعزل"
+  },
+  {
+    "id": 332,
+    "english": "participate",
+    "turkish": "join, take part in, katılmak",
+    "arabic": "يشارك"
+  },
+  {
+    "id": 333,
+    "english": "shell",
+    "turkish": "kabuk",
+    "arabic": "قشرة، صدفة"
+  },
+  {
+    "id": 334,
+    "english": "crust",
+    "turkish": "kabuk, dış tabaka",
+    "arabic": "قشرة، طبقة خارجية"
+  },
+  {
+    "id": 335,
+    "english": "axiom",
+    "turkish": "kabul edilmiş gerçek",
+    "arabic": "مسلّمة، حقيقة مقبولة"
+  },
+  {
+    "id": 336,
+    "english": "acknowledge",
+    "turkish": "kabul etmek",
+    "arabic": "يقر، يعترف"
+  },
+  {
+    "id": 337,
+    "english": "permanent",
+    "turkish": "kalıcı, sürekli",
+    "arabic": "دائم"
+  },
+  {
+    "id": 338,
+    "english": "relic",
+    "turkish": "remain, residue, hangover, kalıntı, atık",
+    "arabic": "بقايا، أثر"
+  },
+  {
+    "id": 339,
+    "english": "camouflage",
+    "turkish": "kamuflaj",
+    "arabic": "تمويه"
+  },
+  {
+    "id": 340,
+    "english": "groove",
+    "turkish": "kanal",
+    "arabic": "أخدود، قناة"
+  },
+  {
+    "id": 341,
+    "english": "sewerage",
+    "turkish": "kanalizasyon",
+    "arabic": "نظام الصرف الصحي"
+  },
+  {
+    "id": 342,
+    "english": "code",
+    "turkish": "kanun, şifre",
+    "arabic": "قانون، شفرة"
+  },
+  {
+    "id": 343,
+    "english": "overland",
+    "turkish": "karadan",
+    "arabic": "براً"
+  },
+  {
+    "id": 344,
+    "english": "compound",
+    "turkish": "karışım, bileşim",
+    "arabic": "مركّب"
+  },
+  {
+    "id": 345,
+    "english": "in view of",
+    "turkish": "karşısında, durumunda",
+    "arabic": "بالنظر إلى"
+  },
+  {
+    "id": 346,
+    "english": "hurricane",
+    "turkish": "kasırga, hortum",
+    "arabic": "إعصار"
+  },
+  {
+    "id": 347,
+    "english": "solid",
+    "turkish": "katı, sert",
+    "arabic": "صلب"
+  },
+  {
+    "id": 348,
+    "english": "join",
+    "turkish": "katılmak",
+    "arabic": "ينضم"
+  },
+  {
+    "id": 349,
+    "english": "contribution",
+    "turkish": "katkı",
+    "arabic": "مساهمة"
+  },
+  {
+    "id": 350,
+    "english": "additive",
+    "turkish": "katkı maddesi",
+    "arabic": "مادة مضافة"
+  },
+  {
+    "id": 351,
+    "english": "layer",
+    "turkish": "katman",
+    "arabic": "طبقة"
+  },
+  {
+    "id": 352,
+    "english": "tar",
+    "turkish": "katran",
+    "arabic": "قطران"
+  },
+  {
+    "id": 353,
+    "english": "concept",
+    "turkish": "kavram",
+    "arabic": "مفهوم"
+  },
+  {
+    "id": 354,
+    "english": "slide",
+    "turkish": "kayma, kaydırma",
+    "arabic": "انزلاق"
+  },
+  {
+    "id": 355,
+    "english": "fuse",
+    "turkish": "kaynaştırmak",
+    "arabic": "يدمج، يصهر معاً"
+  },
+  {
+    "id": 356,
+    "english": "excavation",
+    "turkish": "kazı",
+    "arabic": "حفر، تنقيب"
+  },
+  {
+    "id": 357,
+    "english": "avoid",
+    "turkish": "keep away, stay away, uzak durmak",
+    "arabic": "يتجنب"
+  },
+  {
+    "id": 358,
+    "english": "carry on",
+    "turkish": "keep on, go on, continue, devam etmek",
+    "arabic": "يستمر"
+  },
+  {
+    "id": 359,
+    "english": "prophecy",
+    "turkish": "kehanet",
+    "arabic": "نبوءة"
+  },
+  {
+    "id": 360,
+    "english": "amber",
+    "turkish": "kehribar",
+    "arabic": "كهرمان"
+  },
+  {
+    "id": 361,
+    "english": "arch",
+    "turkish": "kemer",
+    "arabic": "قوس"
+  },
+  {
+    "id": 362,
+    "english": "tentative",
+    "turkish": "kesin olmayan, deneysel, kararsız",
+    "arabic": "غير مؤكد، مبدئي"
+  },
+  {
+    "id": 363,
+    "english": "conclusive",
+    "turkish": "kesin, son, nihai",
+    "arabic": "حاسم، نهائي"
+  },
+  {
+    "id": 364,
+    "english": "acute",
+    "turkish": "keskin, ciddi",
+    "arabic": "حاد"
+  },
+  {
+    "id": 365,
+    "english": "chestnut",
+    "turkish": "kestane ağacı, kestane",
+    "arabic": "شجرة/ثمرة الكستناء"
+  },
+  {
+    "id": 366,
+    "english": "continental",
+    "turkish": "kıtasal",
+    "arabic": "قاري"
+  },
+  {
+    "id": 367,
+    "english": "spark",
+    "turkish": "kıvılcım",
+    "arabic": "شرارة"
+  },
+  {
+    "id": 368,
+    "english": "infrared",
+    "turkish": "kızıl ötesi",
+    "arabic": "الأشعة تحت الحمراء"
+  },
+  {
+    "id": 369,
+    "english": "chalk",
+    "turkish": "kireç taşı",
+    "arabic": "طباشير، حجر الطباشير"
+  },
+  {
+    "id": 370,
+    "english": "lime scale",
+    "turkish": "kireç tortusu",
+    "arabic": "ترسبات الجير"
+  },
+  {
+    "id": 371,
+    "english": "contamination",
+    "turkish": "kirlenme",
+    "arabic": "تلوث"
+  },
+  {
+    "id": 372,
+    "english": "smog",
+    "turkish": "kirli hava kütlesi",
+    "arabic": "ضباب دخاني"
+  },
+  {
+    "id": 373,
+    "english": "impurity",
+    "turkish": "kirlilik, katışık şey",
+    "arabic": "شائبة"
+  },
+  {
+    "id": 374,
+    "english": "weapons of mass destruction",
+    "turkish": "kitle imha silahları",
+    "arabic": "أسلحة الدمار الشامل"
+  },
+  {
+    "id": 375,
+    "english": "stereotype",
+    "turkish": "klişe, basmakalıp",
+    "arabic": "قالب نمطي"
+  },
+  {
+    "id": 376,
+    "english": "cobalt",
+    "turkish": "kobalt",
+    "arabic": "كوبالت"
+  },
+  {
+    "id": 377,
+    "english": "odour",
+    "turkish": "koku",
+    "arabic": "رائحة"
+  },
+  {
+    "id": 378,
+    "english": "flavourful",
+    "turkish": "kokulu, aromatic",
+    "arabic": "عطري، ذو نكهة"
+  },
+  {
+    "id": 379,
+    "english": "perishable",
+    "turkish": "kolay bozulur, dayanıksız",
+    "arabic": "سريع التلف"
+  },
+  {
+    "id": 380,
+    "english": "formidable",
+    "turkish": "korkunç",
+    "arabic": "مخيف، هائل"
+  },
+  {
+    "id": 381,
+    "english": "preservation",
+    "turkish": "koruma",
+    "arabic": "حفظ"
+  },
+  {
+    "id": 382,
+    "english": "conserve",
+    "turkish": "korumak, muhafaza etmek",
+    "arabic": "يحافظ على"
+  },
+  {
+    "id": 383,
+    "english": "terms",
+    "turkish": "koşullar",
+    "arabic": "شروط"
+  },
+  {
+    "id": 384,
+    "english": "coal-mining",
+    "turkish": "kömür madenciliği",
+    "arabic": "تعدين الفحم"
+  },
+  {
+    "id": 385,
+    "english": "coal-drived",
+    "turkish": "kömürden elde edilen",
+    "arabic": "مستخرج من الفحم"
+  },
+  {
+    "id": 386,
+    "english": "suds",
+    "turkish": "köpük, sabun köpüğü",
+    "arabic": "رغوة الصابون"
+  },
+  {
+    "id": 387,
+    "english": "fumes",
+    "turkish": "kötü kokan gazlar",
+    "arabic": "أبخرة كريهة"
+  },
+  {
+    "id": 388,
+    "english": "stink bomb",
+    "turkish": "kötü koku bombası",
+    "arabic": "قنبلة كريهة الرائحة"
+  },
+  {
+    "id": 389,
+    "english": "chronic",
+    "turkish": "kronik",
+    "arabic": "مزمن"
+  },
+  {
+    "id": 390,
+    "english": "earplug",
+    "turkish": "kulak tıkacı",
+    "arabic": "سدادة أذن"
+  },
+  {
+    "id": 391,
+    "english": "sandstone",
+    "turkish": "kum taşı",
+    "arabic": "حجر رملي"
+  },
+  {
+    "id": 392,
+    "english": "anomalous",
+    "turkish": "kural dışı, anormal",
+    "arabic": "شاذ، غير طبيعي"
+  },
+  {
+    "id": 393,
+    "english": "install",
+    "turkish": "kurmak, tesis etmek",
+    "arabic": "يركّب، ينشئ"
+  },
+  {
+    "id": 394,
+    "english": "lead-based",
+    "turkish": "kurşun bazlı",
+    "arabic": "قائم على الرصاص"
+  },
+  {
+    "id": 395,
+    "english": "bullet-proof",
+    "turkish": "kurşun geçirmez",
+    "arabic": "مضاد للرصاص"
+  },
+  {
+    "id": 396,
+    "english": "lead shot",
+    "turkish": "kurşun saçma",
+    "arabic": "رصاص الصيد"
+  },
+  {
+    "id": 397,
+    "english": "arid",
+    "turkish": "kuru, kıraç, sıkı",
+    "arabic": "جاف، قاحل"
+  },
+  {
+    "id": 398,
+    "english": "foundation",
+    "turkish": "kurum, tesis, vakıf",
+    "arabic": "مؤسسة، أساس"
+  },
+  {
+    "id": 399,
+    "english": "plume",
+    "turkish": "kuş tüyü",
+    "arabic": "ريشة"
+  },
+  {
+    "id": 400,
+    "english": "polar bear",
+    "turkish": "kutup ayısı",
+    "arabic": "الدب القطبي"
+  },
+  {
+    "id": 401,
+    "english": "polar region",
+    "turkish": "kutup bölgesi",
+    "arabic": "المنطقة القطبية"
+  },
+  {
+    "id": 402,
+    "english": "tail",
+    "turkish": "kuyruk",
+    "arabic": "ذيل"
+  },
+  {
+    "id": 403,
+    "english": "comet",
+    "turkish": "kuyruklu yıldız",
+    "arabic": "مذنّب"
+  },
+  {
+    "id": 404,
+    "english": "arctic",
+    "turkish": "kuzey kutbu ve ona ait",
+    "arabic": "القطب الشمالي وما يتعلق به"
+  },
+  {
+    "id": 405,
+    "english": "small-scale",
+    "turkish": "küçük çaplı",
+    "arabic": "صغير النطاق"
+  },
+  {
+    "id": 406,
+    "english": "sphere",
+    "turkish": "küre",
+    "arabic": "كرة"
+  },
+  {
+    "id": 407,
+    "english": "tulip",
+    "turkish": "lale",
+    "arabic": "زهرة التوليب"
+  },
+  {
+    "id": 408,
+    "english": "in favour of",
+    "turkish": "lehine",
+    "arabic": "لصالح"
+  },
+  {
+    "id": 409,
+    "english": "take care of",
+    "turkish": "look after, care for, ilgilenmek, göz kulak olmak",
+    "arabic": "يعتني بـ"
+  },
+  {
+    "id": 410,
+    "english": "matter",
+    "turkish": "madde",
+    "arabic": "مادة"
+  },
+  {
+    "id": 411,
+    "english": "substance",
+    "turkish": "madde, material, entity",
+    "arabic": "مادة، جوهر"
+  },
+  {
+    "id": 412,
+    "english": "alloy",
+    "turkish": "maden alaşımı",
+    "arabic": "سبيكة معدنية"
+  },
+  {
+    "id": 413,
+    "english": "smelt",
+    "turkish": "madeni eritmek",
+    "arabic": "يصهر المعدن"
+  },
+  {
+    "id": 414,
+    "english": "hardware",
+    "turkish": "madeni eşya, hırdavat, donanım",
+    "arabic": "أدوات معدنية، عتاد"
+  },
+  {
+    "id": 415,
+    "english": "chiefly",
+    "turkish": "mainly, basically, başlıca, özellikle",
+    "arabic": "بشكل أساسي"
+  },
+  {
+    "id": 416,
+    "english": "reasonable",
+    "turkish": "makul, mantıklı",
+    "arabic": "معقول"
+  },
+  {
+    "id": 417,
+    "english": "credit",
+    "turkish": "mal etmek, atfetmek",
+    "arabic": "ينسب الفضل إلى"
+  },
+  {
+    "id": 418,
+    "english": "fungus",
+    "turkish": "mantar",
+    "arabic": "فطر"
+  },
+  {
+    "id": 419,
+    "english": "fungicide",
+    "turkish": "mantar öldürücü ilaç",
+    "arabic": "مبيد فطري"
+  },
+  {
+    "id": 420,
+    "english": "magnetostriction",
+    "turkish": "manyetik uzayıp kısalma",
+    "arabic": "التمغنط الانضغاطي"
+  },
+  {
+    "id": 421,
+    "english": "expose to",
+    "turkish": "maruz kalmak",
+    "arabic": "يتعرض لـ"
+  },
+  {
+    "id": 422,
+    "english": "solid wood",
+    "turkish": "masif ahşap",
+    "arabic": "خشب صلب"
+  },
+  {
+    "id": 423,
+    "english": "expenditure",
+    "turkish": "masraf",
+    "arabic": "نفقة"
+  },
+  {
+    "id": 424,
+    "english": "yeast",
+    "turkish": "maya",
+    "arabic": "خميرة"
+  },
+  {
+    "id": 425,
+    "english": "mammals",
+    "turkish": "memeliler",
+    "arabic": "الثدييات"
+  },
+  {
+    "id": 426,
+    "english": "wonder",
+    "turkish": "merak etmek",
+    "arabic": "يتساءل"
+  },
+  {
+    "id": 427,
+    "english": "coral",
+    "turkish": "mercan",
+    "arabic": "مرجان"
+  },
+  {
+    "id": 428,
+    "english": "coral reef",
+    "turkish": "mercan kayalığı",
+    "arabic": "الشعاب المرجانية"
+  },
+  {
+    "id": 429,
+    "english": "touchstone",
+    "turkish": "mihenk taşı, ölçüt",
+    "arabic": "محك، معيار"
+  },
+  {
+    "id": 430,
+    "english": "gratitude",
+    "turkish": "minnettarlık",
+    "arabic": "امتنان"
+  },
+  {
+    "id": 431,
+    "english": "pattern",
+    "turkish": "model, structure, model, yapı",
+    "arabic": "نمط، بنية"
+  },
+  {
+    "id": 432,
+    "english": "the dawn of modern science",
+    "turkish": "modern bilimin doğuşu",
+    "arabic": "فجر العلم الحديث"
+  },
+  {
+    "id": 433,
+    "english": "miracle",
+    "turkish": "mucize",
+    "arabic": "معجزة"
+  },
+  {
+    "id": 434,
+    "english": "seal",
+    "turkish": "mühürlemek",
+    "arabic": "يختم"
+  },
+  {
+    "id": 435,
+    "english": "spectacular",
+    "turkish": "müthiş, harikulade",
+    "arabic": "رائع، مذهل"
+  },
+  {
+    "id": 436,
+    "english": "regrettably",
+    "turkish": "ne yazık ki, üzücü biçimde",
+    "arabic": "للأسف"
+  },
+  {
+    "id": 437,
+    "english": "due to",
+    "turkish": "nedeniyle, because of",
+    "arabic": "بسبب"
+  },
+  {
+    "id": 438,
+    "english": "moisture",
+    "turkish": "nem, rutubet",
+    "arabic": "رطوبة"
+  },
+  {
+    "id": 439,
+    "english": "damp",
+    "turkish": "nemli",
+    "arabic": "رطب"
+  },
+  {
+    "id": 440,
+    "english": "in fulfilment of",
+    "turkish": "-nın gerçekleşmesiyle",
+    "arabic": "تحقيقاً لـ"
+  },
+  {
+    "id": 441,
+    "english": "in the manner of",
+    "turkish": "-nın tarzında, şeklinde",
+    "arabic": "على طريقة"
+  },
+  {
+    "id": 442,
+    "english": "in place of",
+    "turkish": "-nın yerinde",
+    "arabic": "بدلاً من"
+  },
+  {
+    "id": 443,
+    "english": "sample",
+    "turkish": "numune",
+    "arabic": "عينة"
+  },
+  {
+    "id": 444,
+    "english": "penetrate",
+    "turkish": "nüfuz etmek, içine işlemek",
+    "arabic": "يخترق، ينفذ"
+  },
+  {
+    "id": 445,
+    "english": "exceptional",
+    "turkish": "olağandışı, istisna",
+    "arabic": "استثنائي"
+  },
+  {
+    "id": 446,
+    "english": "odds",
+    "turkish": "olasılık, ihtimal",
+    "arabic": "احتمالات"
+  },
+  {
+    "id": 447,
+    "english": "phenomenon",
+    "turkish": "olay",
+    "arabic": "ظاهرة"
+  },
+  {
+    "id": 448,
+    "english": "substantially",
+    "turkish": "oldukça",
+    "arabic": "إلى حد كبير"
+  },
+  {
+    "id": 449,
+    "english": "ripen",
+    "turkish": "olgunlaşmak, olgun",
+    "arabic": "ينضج"
+  },
+  {
+    "id": 450,
+    "english": "adversely",
+    "turkish": "olumsuz olarak",
+    "arabic": "سلباً"
+  },
+  {
+    "id": 451,
+    "english": "compose",
+    "turkish": "oluşmak, meydana gelmek",
+    "arabic": "يتكون من، يشكّل"
+  },
+  {
+    "id": 452,
+    "english": "build up",
+    "turkish": "oluşum, büyüme, artış",
+    "arabic": "تراكم، نمو"
+  },
+  {
+    "id": 453,
+    "english": "vertebrate",
+    "turkish": "omurgalı",
+    "arabic": "فقاري"
+  },
+  {
+    "id": 454,
+    "english": "bear out",
+    "turkish": "ortaya çıkmak, doğurmak",
+    "arabic": "يثبت، يؤكد"
+  },
+  {
+    "id": 455,
+    "english": "carve",
+    "turkish": "oymak",
+    "arabic": "ينحت"
+  },
+  {
+    "id": 456,
+    "english": "scale",
+    "turkish": "ölçek",
+    "arabic": "مقياس"
+  },
+  {
+    "id": 457,
+    "english": "lethal",
+    "turkish": "öldürücü",
+    "arabic": "قاتل، مميت"
+  },
+  {
+    "id": 458,
+    "english": "fatal",
+    "turkish": "ölümcül",
+    "arabic": "مميت"
+  },
+  {
+    "id": 459,
+    "english": "precede",
+    "turkish": "önceden vuku bulmak",
+    "arabic": "يسبق"
+  },
+  {
+    "id": 460,
+    "english": "pre-eminence",
+    "turkish": "öncelikli önem",
+    "arabic": "أهمية بالغة"
+  },
+  {
+    "id": 461,
+    "english": "leading",
+    "turkish": "önde gelen",
+    "arabic": "رائد، بارز"
+  },
+  {
+    "id": 462,
+    "english": "measure",
+    "turkish": "önlem",
+    "arabic": "إجراء، تدبير"
+  },
+  {
+    "id": 463,
+    "english": "specimen",
+    "turkish": "örnek",
+    "arabic": "عينة"
+  },
+  {
+    "id": 464,
+    "english": "epitomize",
+    "turkish": "örnek oluşturmak",
+    "arabic": "يمثّل، يجسّد"
+  },
+  {
+    "id": 465,
+    "english": "feature",
+    "turkish": "property, trait, özellik, nitelik",
+    "arabic": "خاصية، سمة"
+  },
+  {
+    "id": 466,
+    "english": "preface",
+    "turkish": "özsöz",
+    "arabic": "مقدمة"
+  },
+  {
+    "id": 467,
+    "english": "fragment",
+    "turkish": "parça",
+    "arabic": "جزء، شظية"
+  },
+  {
+    "id": 468,
+    "english": "bit",
+    "turkish": "parça, parçacık",
+    "arabic": "قطعة صغيرة"
+  },
+  {
+    "id": 469,
+    "english": "disintegration",
+    "turkish": "parçalanma, bölünme",
+    "arabic": "تفكك"
+  },
+  {
+    "id": 470,
+    "english": "crumble",
+    "turkish": "parçalanmak, ufalanmak",
+    "arabic": "يتفتت"
+  },
+  {
+    "id": 471,
+    "english": "glossy",
+    "turkish": "parlak",
+    "arabic": "لامع"
+  },
+  {
+    "id": 472,
+    "english": "vibrant",
+    "turkish": "parlak, canlı",
+    "arabic": "نابض بالحياة، زاهٍ"
+  },
+  {
+    "id": 473,
+    "english": "flare",
+    "turkish": "parlama",
+    "arabic": "وميض، لهب مفاجئ"
+  },
+  {
+    "id": 474,
+    "english": "flare up",
+    "turkish": "parlamak, alevlenmek, öfkelenmek",
+    "arabic": "يشتعل، يتوهج، يغضب"
+  },
+  {
+    "id": 475,
+    "english": "fingerprint",
+    "turkish": "parmak izi",
+    "arabic": "بصمة إصبع"
+  },
+  {
+    "id": 476,
+    "english": "boom",
+    "turkish": "patlama",
+    "arabic": "انفجار، ازدهار"
+  },
+  {
+    "id": 477,
+    "english": "explosive",
+    "turkish": "patlayıcı",
+    "arabic": "متفجر"
+  },
+  {
+    "id": 478,
+    "english": "fan",
+    "turkish": "pervane",
+    "arabic": "مروحة"
+  },
+  {
+    "id": 479,
+    "english": "scheme",
+    "turkish": "plan, proje",
+    "arabic": "خطة، مشروع"
+  },
+  {
+    "id": 480,
+    "english": "formerly",
+    "turkish": "previously, daha önceden, eskiden",
+    "arabic": "سابقاً"
+  },
+  {
+    "id": 481,
+    "english": "haze",
+    "turkish": "pus, hafif sis",
+    "arabic": "ضباب خفيف"
+  },
+  {
+    "id": 482,
+    "english": "rapidly",
+    "turkish": "quickly, swiftly, hızlıca, çabucak",
+    "arabic": "بسرعة"
+  },
+  {
+    "id": 483,
+    "english": "bring up",
+    "turkish": "raise, yetiştirmek, büyütmek (çocuk)",
+    "arabic": "يربّي"
+  },
+  {
+    "id": 484,
+    "english": "random",
+    "turkish": "rastgele, gelişigüzel",
+    "arabic": "عشوائي"
+  },
+  {
+    "id": 485,
+    "english": "in competition with",
+    "turkish": "rekabet halinde",
+    "arabic": "في منافسة مع"
+  },
+  {
+    "id": 486,
+    "english": "take off",
+    "turkish": "remove, çıkarmak",
+    "arabic": "يزيل"
+  },
+  {
+    "id": 487,
+    "english": "reef",
+    "turkish": "resif, su kayalığı",
+    "arabic": "شعاب"
+  },
+  {
+    "id": 488,
+    "english": "solution",
+    "turkish": "resolution, çözülme, solüsyon",
+    "arabic": "محلول، حل"
+  },
+  {
+    "id": 489,
+    "english": "bring about",
+    "turkish": "reveal, ortaya çıkarmak",
+    "arabic": "يحدث، يسبب"
+  },
+  {
+    "id": 490,
+    "english": "venture",
+    "turkish": "riskli girişim",
+    "arabic": "مشروع محفوف بالمخاطر"
+  },
+  {
+    "id": 491,
+    "english": "decay",
+    "turkish": "rot, decomposition, spoil, çürüme",
+    "arabic": "تعفن، اضمحلال"
+  },
+  {
+    "id": 492,
+    "english": "crudely",
+    "turkish": "roughly, rudely, kabaca, kabataslak",
+    "arabic": "بشكل خام، فجّ"
+  },
+  {
+    "id": 493,
+    "english": "humid",
+    "turkish": "rutubetli, nemli",
+    "arabic": "رطب"
+  },
+  {
+    "id": 494,
+    "english": "wind-borne",
+    "turkish": "rüzgarla taşınan",
+    "arabic": "محمول بالريح"
+  },
+  {
+    "id": 495,
+    "english": "stationary",
+    "turkish": "sabit, durağan",
+    "arabic": "ثابت، ساكن"
+  },
+  {
+    "id": 496,
+    "english": "hair dye",
+    "turkish": "saç boyası",
+    "arabic": "صبغة شعر"
+  },
+  {
+    "id": 497,
+    "english": "pure",
+    "turkish": "saf, katkısız",
+    "arabic": "نقي"
+  },
+  {
+    "id": 498,
+    "english": "Milky Way",
+    "turkish": "Samanyolu",
+    "arabic": "درب التبانة"
+  },
+  {
+    "id": 499,
+    "english": "plant",
+    "turkish": "santral, fabrika",
+    "arabic": "محطة، مصنع"
+  },
+  {
+    "id": 500,
+    "english": "stalk",
+    "turkish": "sap",
+    "arabic": "ساق النبات"
+  },
+  {
+    "id": 501,
+    "english": "stud",
+    "turkish": "saplama, iribaşlı çivi",
+    "arabic": "مسمار كبير الرأس"
+  },
+  {
+    "id": 502,
+    "english": "vine",
+    "turkish": "sarmaşık yapılı, kazığa vb. tutunarak",
+    "arabic": "نبات متسلق"
+  },
+  {
+    "id": 503,
+    "english": "transparent",
+    "turkish": "saydam",
+    "arabic": "شفاف"
+  },
+  {
+    "id": 504,
+    "english": "countless",
+    "turkish": "sayısız, innumerable",
+    "arabic": "لا يحصى"
+  },
+  {
+    "id": 505,
+    "english": "revere",
+    "turkish": "saymak, saygı göstermek",
+    "arabic": "يجلّ، يوقّر"
+  },
+  {
+    "id": 506,
+    "english": "look for",
+    "turkish": "search, examine, scrutinize, araştırmak",
+    "arabic": "يبحث عن"
+  },
+  {
+    "id": 507,
+    "english": "selective",
+    "turkish": "seçici, ayırt edici",
+    "arabic": "انتقائي"
+  },
+  {
+    "id": 508,
+    "english": "inundation",
+    "turkish": "sel, tufan",
+    "arabic": "فيضان"
+  },
+  {
+    "id": 509,
+    "english": "greenhouse",
+    "turkish": "sera",
+    "arabic": "بيت زجاجي (دفيئة)"
+  },
+  {
+    "id": 510,
+    "english": "green house gases",
+    "turkish": "sera etkisi yapan gazlar",
+    "arabic": "غازات الاحتباس الحراري"
+  },
+  {
+    "id": 511,
+    "english": "fierce",
+    "turkish": "sert, şiddetli",
+    "arabic": "شديد، عنيف"
+  },
+  {
+    "id": 512,
+    "english": "establish",
+    "turkish": "set up, kurmak",
+    "arabic": "يؤسس"
+  },
+  {
+    "id": 513,
+    "english": "demonstrate",
+    "turkish": "show, illustrate, göstermek, kanıtlamak",
+    "arabic": "يوضح، يثبت"
+  },
+  {
+    "id": 514,
+    "english": "leap",
+    "turkish": "sıçrama",
+    "arabic": "قفزة"
+  },
+  {
+    "id": 515,
+    "english": "shallow",
+    "turkish": "sığ",
+    "arabic": "ضحل"
+  },
+  {
+    "id": 516,
+    "english": "compress",
+    "turkish": "sıkıştırmak",
+    "arabic": "يضغط"
+  },
+  {
+    "id": 517,
+    "english": "infinite",
+    "turkish": "sınırsız, sonsuz",
+    "arabic": "لا نهائي"
+  },
+  {
+    "id": 518,
+    "english": "commonplace",
+    "turkish": "sıradan, basmakalıp",
+    "arabic": "شائع، مبتذل"
+  },
+  {
+    "id": 519,
+    "english": "leak",
+    "turkish": "sızdırmak",
+    "arabic": "يتسرب"
+  },
+  {
+    "id": 520,
+    "english": "seep",
+    "turkish": "sızmak",
+    "arabic": "يتسرب ببطء"
+  },
+  {
+    "id": 521,
+    "english": "wipe out",
+    "turkish": "silip süpürmek, yok etmek",
+    "arabic": "يمحو، يبيد"
+  },
+  {
+    "id": 522,
+    "english": "emblem",
+    "turkish": "simge",
+    "arabic": "رمز، شعار"
+  },
+  {
+    "id": 523,
+    "english": "fog",
+    "turkish": "sis",
+    "arabic": "ضباب"
+  },
+  {
+    "id": 524,
+    "english": "seismic",
+    "turkish": "sismik",
+    "arabic": "زلزالي"
+  },
+  {
+    "id": 525,
+    "english": "refrigerant",
+    "turkish": "soğutucu",
+    "arabic": "مادة تبريد"
+  },
+  {
+    "id": 526,
+    "english": "concrete",
+    "turkish": "somut, beton",
+    "arabic": "ملموس، خرسانة"
+  },
+  {
+    "id": 527,
+    "english": "last resort",
+    "turkish": "son çare",
+    "arabic": "الملاذ الأخير"
+  },
+  {
+    "id": 528,
+    "english": "subsequent",
+    "turkish": "sonraki",
+    "arabic": "لاحق"
+  },
+  {
+    "id": 529,
+    "english": "end up",
+    "turkish": "sonuçlanmak, bitirmek",
+    "arabic": "ينتهي بـ"
+  },
+  {
+    "id": 530,
+    "english": "ancestry",
+    "turkish": "soy, ecdat",
+    "arabic": "نسب، أصل"
+  },
+  {
+    "id": 531,
+    "english": "soybean",
+    "turkish": "soya fasulyesi",
+    "arabic": "فول الصويا"
+  },
+  {
+    "id": 532,
+    "english": "die out",
+    "turkish": "soyu tükenmek",
+    "arabic": "ينقرض"
+  },
+  {
+    "id": 533,
+    "english": "set off",
+    "turkish": "start on a journey, yola çıkmak",
+    "arabic": "ينطلق في رحلة"
+  },
+  {
+    "id": 534,
+    "english": "accurately",
+    "turkish": "strictly, correctly, doğru olarak",
+    "arabic": "بدقة"
+  },
+  {
+    "id": 535,
+    "english": "flood",
+    "turkish": "su basması",
+    "arabic": "فيضان"
+  },
+  {
+    "id": 536,
+    "english": "waterfowl",
+    "turkish": "su kuşu",
+    "arabic": "طيور مائية"
+  },
+  {
+    "id": 537,
+    "english": "otter",
+    "turkish": "su samuru",
+    "arabic": "قندس الماء"
+  },
+  {
+    "id": 538,
+    "english": "water table",
+    "turkish": "su tabakası seviyesinde",
+    "arabic": "مستوى المياه الجوفية"
+  },
+  {
+    "id": 539,
+    "english": "algae",
+    "turkish": "su yosunu",
+    "arabic": "طحالب"
+  },
+  {
+    "id": 540,
+    "english": "applicable",
+    "turkish": "suitable, proper, uygulanabilir",
+    "arabic": "قابل للتطبيق"
+  },
+  {
+    "id": 541,
+    "english": "dilute",
+    "turkish": "sulandırmak, hafifletmek",
+    "arabic": "يخفف، يمدد"
+  },
+  {
+    "id": 542,
+    "english": "submerge",
+    "turkish": "sular altında kalma, suya batma",
+    "arabic": "يغمر، يغرق تحت الماء"
+  },
+  {
+    "id": 543,
+    "english": "hold up",
+    "turkish": "support, desteklemek, gecikme",
+    "arabic": "يدعم، يؤخر"
+  },
+  {
+    "id": 544,
+    "english": "drain",
+    "turkish": "suyunu akıtmak, kurutmak",
+    "arabic": "يصرّف الماء، يجفف"
+  },
+  {
+    "id": 545,
+    "english": "dehydrate",
+    "turkish": "suyunu almak, kurutmak",
+    "arabic": "يجفف (يزيل الماء)"
+  },
+  {
+    "id": 546,
+    "english": "mucus",
+    "turkish": "sümüksü salgı",
+    "arabic": "مخاط"
+  },
+  {
+    "id": 547,
+    "english": "sponge",
+    "turkish": "sünger",
+    "arabic": "إسفنجة"
+  },
+  {
+    "id": 548,
+    "english": "superconductivity",
+    "turkish": "süper iletkenlik",
+    "arabic": "الموصلية الفائقة"
+  },
+  {
+    "id": 549,
+    "english": "sustainability",
+    "turkish": "sürdürülebilirlik",
+    "arabic": "الاستدامة"
+  },
+  {
+    "id": 550,
+    "english": "process",
+    "turkish": "süreç",
+    "arabic": "عملية"
+  },
+  {
+    "id": 551,
+    "english": "ever-growing",
+    "turkish": "sürekli artan, büyüyen",
+    "arabic": "متزايد باستمرار"
+  },
+  {
+    "id": 552,
+    "english": "permanently",
+    "turkish": "sürekli, düzenli olarak",
+    "arabic": "بشكل دائم"
+  },
+  {
+    "id": 553,
+    "english": "perpetual",
+    "turkish": "sürekli, ebedi",
+    "arabic": "دائم، أبدي"
+  },
+  {
+    "id": 554,
+    "english": "friction",
+    "turkish": "sürtünme",
+    "arabic": "احتكاك"
+  },
+  {
+    "id": 555,
+    "english": "anthrax",
+    "turkish": "şarbon",
+    "arabic": "الجمرة الخبيثة"
+  },
+  {
+    "id": 556,
+    "english": "conditionally",
+    "turkish": "şartlı olarak",
+    "arabic": "بشكل مشروط"
+  },
+  {
+    "id": 557,
+    "english": "stuff",
+    "turkish": "şey, madde",
+    "arabic": "مادة، شيء"
+  },
+  {
+    "id": 558,
+    "english": "severe",
+    "turkish": "şiddetli, ser",
+    "arabic": "شديد"
+  },
+  {
+    "id": 559,
+    "english": "cipher",
+    "turkish": "şifre",
+    "arabic": "شفرة"
+  },
+  {
+    "id": 560,
+    "english": "code-breaking",
+    "turkish": "şifre kırma",
+    "arabic": "فك الشفرة"
+  },
+  {
+    "id": 561,
+    "english": "encrypt",
+    "turkish": "şifrelemek",
+    "arabic": "يشفّر"
+  },
+  {
+    "id": 562,
+    "english": "scepticism",
+    "turkish": "şüphecilik",
+    "arabic": "شكوكية"
+  },
+  {
+    "id": 563,
+    "english": "grain-fed",
+    "turkish": "tahılla beslenen",
+    "arabic": "مُطعم بالحبوب"
+  },
+  {
+    "id": 564,
+    "english": "appreciation",
+    "turkish": "takdir etme, değerini bilme",
+    "arabic": "تقدير"
+  },
+  {
+    "id": 565,
+    "english": "take into account",
+    "turkish": "take into consideration, göz önünde bulundurmak",
+    "arabic": "يأخذ بعين الاعتبار"
+  },
+  {
+    "id": 566,
+    "english": "refitted",
+    "turkish": "tamir edilmiş, düzenlenmiş",
+    "arabic": "مُصلح، مُعاد تجهيزه"
+  },
+  {
+    "id": 567,
+    "english": "grain",
+    "turkish": "tane, zerre",
+    "arabic": "حبة، ذرة"
+  },
+  {
+    "id": 568,
+    "english": "pesticide",
+    "turkish": "tarım ilacı",
+    "arabic": "مبيد آفات"
+  },
+  {
+    "id": 569,
+    "english": "agronomist",
+    "turkish": "tarım uzmanı",
+    "arabic": "خبير زراعي"
+  },
+  {
+    "id": 570,
+    "english": "chronicle",
+    "turkish": "tarih, kayıt",
+    "arabic": "سجل تاريخي"
+  },
+  {
+    "id": 571,
+    "english": "overflow",
+    "turkish": "taşmak",
+    "arabic": "يفيض"
+  },
+  {
+    "id": 572,
+    "english": "satisfactorily",
+    "turkish": "tatmin edici bir şekilde",
+    "arabic": "بشكل مرضٍ"
+  },
+  {
+    "id": 573,
+    "english": "crew",
+    "turkish": "tayfa, ekip, tim",
+    "arabic": "طاقم"
+  },
+  {
+    "id": 574,
+    "english": "supply",
+    "turkish": "tedarik etmek, sağlamak",
+    "arabic": "يزوّد، يمدّ"
+  },
+  {
+    "id": 575,
+    "english": "cure",
+    "turkish": "tedavi",
+    "arabic": "علاج"
+  },
+  {
+    "id": 576,
+    "english": "precaution",
+    "turkish": "tedbir, önlem",
+    "arabic": "احتياط، إجراء وقائي"
+  },
+  {
+    "id": 577,
+    "english": "jeopardy",
+    "turkish": "tehlike, risk, danger",
+    "arabic": "خطر"
+  },
+  {
+    "id": 578,
+    "english": "vessel",
+    "turkish": "tekne, gemi",
+    "arabic": "وعاء، سفينة"
+  },
+  {
+    "id": 579,
+    "english": "incidence",
+    "turkish": "tekrar oranı",
+    "arabic": "معدل التكرار"
+  },
+  {
+    "id": 580,
+    "english": "recurring",
+    "turkish": "tekrarlayan",
+    "arabic": "متكرر"
+  },
+  {
+    "id": 581,
+    "english": "footing",
+    "turkish": "temel, taban",
+    "arabic": "أساس، قاعدة"
+  },
+  {
+    "id": 582,
+    "english": "representative",
+    "turkish": "temsilci",
+    "arabic": "ممثل"
+  },
+  {
+    "id": 583,
+    "english": "coal-fired power stations",
+    "turkish": "termik santraller",
+    "arabic": "محطات الطاقة العاملة بالفحم"
+  },
+  {
+    "id": 584,
+    "english": "in the grip of",
+    "turkish": "tesirinde, pençesinde",
+    "arabic": "في قبضة"
+  },
+  {
+    "id": 585,
+    "english": "deliver",
+    "turkish": "teslim etmek",
+    "arabic": "يسلّم"
+  },
+  {
+    "id": 586,
+    "english": "spur",
+    "turkish": "teşvik etmek",
+    "arabic": "يحفّز"
+  },
+  {
+    "id": 587,
+    "english": "airliner",
+    "turkish": "ticari uçak",
+    "arabic": "طائرة ركاب تجارية"
+  },
+  {
+    "id": 588,
+    "english": "vibration",
+    "turkish": "titreşim",
+    "arabic": "اهتزاز"
+  },
+  {
+    "id": 589,
+    "english": "equally",
+    "turkish": "to the same degree, eşit bir şekilde",
+    "arabic": "بشكل متساوٍ"
+  },
+  {
+    "id": 590,
+    "english": "culmination",
+    "turkish": "toplanma",
+    "arabic": "تراكم، ذروة"
+  },
+  {
+    "id": 591,
+    "english": "soil",
+    "turkish": "toprak",
+    "arabic": "تربة"
+  },
+  {
+    "id": 592,
+    "english": "landslip",
+    "turkish": "toprak kayması",
+    "arabic": "انهيار أرضي"
+  },
+  {
+    "id": 593,
+    "english": "territory",
+    "turkish": "toprak, alan, bölge",
+    "arabic": "أرض، إقليم"
+  },
+  {
+    "id": 594,
+    "english": "in bulk",
+    "turkish": "toptan, yığın halinde",
+    "arabic": "بالجملة"
+  },
+  {
+    "id": 595,
+    "english": "deposit",
+    "turkish": "tortu, birikinti",
+    "arabic": "ترسب، رواسب"
+  },
+  {
+    "id": 596,
+    "english": "sediment",
+    "turkish": "tortu, çökelti",
+    "arabic": "رواسب"
+  },
+  {
+    "id": 597,
+    "english": "extinction",
+    "turkish": "total destruction of a species, soy tükenmesi",
+    "arabic": "انقراض"
+  },
+  {
+    "id": 598,
+    "english": "pollinate",
+    "turkish": "tozlanmak, polen yaymak",
+    "arabic": "يلقّح (النبات)"
+  },
+  {
+    "id": 599,
+    "english": "convey",
+    "turkish": "transport, taşımak, dağıtmak, iletmek",
+    "arabic": "ينقل، يوصل"
+  },
+  {
+    "id": 600,
+    "english": "deal with",
+    "turkish": "treat, handle, ilgilenmek, ele almak",
+    "arabic": "يتعامل مع"
+  },
+  {
+    "id": 601,
+    "english": "brick",
+    "turkish": "tuğla",
+    "arabic": "طوبة، لبنة"
+  },
+  {
+    "id": 602,
+    "english": "consistent",
+    "turkish": "tutarlı",
+    "arabic": "متسق، ثابت"
+  },
+  {
+    "id": 603,
+    "english": "cured",
+    "turkish": "tuzlanmış, salamura",
+    "arabic": "مملّح، معالج (لحوم)"
+  },
+  {
+    "id": 604,
+    "english": "exhaustion",
+    "turkish": "tükenme, bitme",
+    "arabic": "إنهاك، نفاد"
+  },
+  {
+    "id": 605,
+    "english": "run out of",
+    "turkish": "tükenmek, bitmek",
+    "arabic": "ينفد من"
+  },
+  {
+    "id": 606,
+    "english": "bottled gas",
+    "turkish": "tüp gaz",
+    "arabic": "غاز معبأ"
+  },
+  {
+    "id": 607,
+    "english": "cutting-edge",
+    "turkish": "uç, sınır",
+    "arabic": "طرف، حد أقصى، متطور"
+  },
+  {
+    "id": 608,
+    "english": "crash",
+    "turkish": "uçağın çakılması",
+    "arabic": "تحطم طائرة"
+  },
+  {
+    "id": 609,
+    "english": "hijack",
+    "turkish": "uçak, gemi kaçırma",
+    "arabic": "يختطف طائرة أو سفينة"
+  },
+  {
+    "id": 610,
+    "english": "obscure",
+    "turkish": "unclear, vague, indistinct, gizli, belirsiz",
+    "arabic": "غامض، غير واضح"
+  },
+  {
+    "id": 611,
+    "english": "combine",
+    "turkish": "unite, attach, birleşmek, katılmak",
+    "arabic": "يتحد، يندمج"
+  },
+  {
+    "id": 612,
+    "english": "component",
+    "turkish": "unsur, öğe, parça",
+    "arabic": "مكوّن، عنصر"
+  },
+  {
+    "id": 613,
+    "english": "stimulator",
+    "turkish": "uyarıcı",
+    "arabic": "محفّز"
+  },
+  {
+    "id": 614,
+    "english": "stimulate",
+    "turkish": "uyarmak, teşvik etmek",
+    "arabic": "يحفّز"
+  },
+  {
+    "id": 615,
+    "english": "application",
+    "turkish": "uygulama",
+    "arabic": "تطبيق"
+  },
+  {
+    "id": 616,
+    "english": "exercise",
+    "turkish": "uygulama, tatbikat",
+    "arabic": "تمرين، تطبيق"
+  },
+  {
+    "id": 617,
+    "english": "conveniently",
+    "turkish": "uygun ve elverişli olarak",
+    "arabic": "بشكل مناسب وملائم"
+  },
+  {
+    "id": 618,
+    "english": "stretch",
+    "turkish": "uzantı, germe, gerilme, uzama",
+    "arabic": "امتداد، شد، تمدد"
+  },
+  {
+    "id": 619,
+    "english": "prolong",
+    "turkish": "uzatmak, sürdürmek",
+    "arabic": "يطيل، يمدد"
+  },
+  {
+    "id": 620,
+    "english": "hatch",
+    "turkish": "uzay gemisinin kapağı",
+    "arabic": "غطاء كبسولة الفضاء"
+  },
+  {
+    "id": 621,
+    "english": "capsule",
+    "turkish": "uzay kapsülü",
+    "arabic": "كبسولة فضائية"
+  },
+  {
+    "id": 622,
+    "english": "space port",
+    "turkish": "uzay limanı",
+    "arabic": "ميناء فضائي"
+  },
+  {
+    "id": 623,
+    "english": "shuttle",
+    "turkish": "uzay mekiği",
+    "arabic": "مكوك فضائي"
+  },
+  {
+    "id": 624,
+    "english": "prolonged",
+    "turkish": "uzun süreli",
+    "arabic": "مطوّل"
+  },
+  {
+    "id": 625,
+    "english": "in the long run",
+    "turkish": "uzun vadede",
+    "arabic": "على المدى الطويل"
+  },
+  {
+    "id": 626,
+    "english": "long-range",
+    "turkish": "uzun vadeli",
+    "arabic": "بعيد المدى"
+  },
+  {
+    "id": 627,
+    "english": "threefold",
+    "turkish": "üç kat",
+    "arabic": "ثلاثة أضعاف"
+  },
+  {
+    "id": 628,
+    "english": "by a third",
+    "turkish": "üçte bir oranında",
+    "arabic": "بمقدار الثلث"
+  },
+  {
+    "id": 629,
+    "english": "by one third",
+    "turkish": "üçte bir oranında",
+    "arabic": "بمقدار الثلث"
+  },
+  {
+    "id": 630,
+    "english": "breeding",
+    "turkish": "üremek, yol açmak, yetiştirme, terbiye etme",
+    "arabic": "تكاثر، تربية"
+  },
+  {
+    "id": 631,
+    "english": "manufacture",
+    "turkish": "üretmek, üretim",
+    "arabic": "يصنّع، تصنيع"
+  },
+  {
+    "id": 632,
+    "english": "crop",
+    "turkish": "ürün",
+    "arabic": "محصول"
+  },
+  {
+    "id": 633,
+    "english": "yield",
+    "turkish": "ürün, gelir, boyun eğme",
+    "arabic": "محصول، عائد، يستسلم"
+  },
+  {
+    "id": 634,
+    "english": "predominant",
+    "turkish": "üstün, hakim",
+    "arabic": "سائد، مهيمن"
+  },
+  {
+    "id": 635,
+    "english": "ascendancy",
+    "turkish": "üstünlük, hakimiyet",
+    "arabic": "سيطرة، هيمنة"
+  },
+  {
+    "id": 636,
+    "english": "indefinite",
+    "turkish": "vague, uncertain, unlimited, belirsiz",
+    "arabic": "غير محدد"
+  },
+  {
+    "id": 637,
+    "english": "valve",
+    "turkish": "vana",
+    "arabic": "صمام"
+  },
+  {
+    "id": 638,
+    "english": "prolific",
+    "turkish": "verimli, üretken",
+    "arabic": "منتج، خصيب"
+  },
+  {
+    "id": 639,
+    "english": "veterinary surgeon",
+    "turkish": "veteriner cerrah",
+    "arabic": "طبيب بيطري جراح"
+  },
+  {
+    "id": 640,
+    "english": "urgently",
+    "turkish": "vitally, çok önemli, çok zaruri olarak",
+    "arabic": "بشكل عاجل جداً"
+  },
+  {
+    "id": 641,
+    "english": "put down",
+    "turkish": "write down, yazıya dökmek",
+    "arabic": "يدوّن، يكتب"
+  },
+  {
+    "id": 642,
+    "english": "weed",
+    "turkish": "yabani ot",
+    "arabic": "عشب ضار"
+  },
+  {
+    "id": 643,
+    "english": "lubricant",
+    "turkish": "yağlayıcı",
+    "arabic": "مادة تشحيم"
+  },
+  {
+    "id": 644,
+    "english": "approach",
+    "turkish": "yaklaşmak",
+    "arabic": "يقترب"
+  },
+  {
+    "id": 645,
+    "english": "insulation",
+    "turkish": "yalıtım, izolasyon",
+    "arabic": "عزل"
+  },
+  {
+    "id": 646,
+    "english": "patch",
+    "turkish": "yama, parka",
+    "arabic": "رقعة"
+  },
+  {
+    "id": 647,
+    "english": "by-product",
+    "turkish": "yan ürün",
+    "arabic": "منتج ثانوي"
+  },
+  {
+    "id": 648,
+    "english": "trailblazing",
+    "turkish": "yankı uyandıran, çarpıcı",
+    "arabic": "رائد، مثير للانتباه"
+  },
+  {
+    "id": 649,
+    "english": "combustion",
+    "turkish": "yanma, tutuşma",
+    "arabic": "احتراق"
+  },
+  {
+    "id": 650,
+    "english": "reverberate",
+    "turkish": "yansımak, aksetmek",
+    "arabic": "يتردد صداه"
+  },
+  {
+    "id": 651,
+    "english": "artificially sweetened",
+    "turkish": "yapay olarak tatlandırılmış",
+    "arabic": "محلّى صناعياً"
+  },
+  {
+    "id": 652,
+    "english": "artificial",
+    "turkish": "yapay, suni",
+    "arabic": "اصطناعي"
+  },
+  {
+    "id": 653,
+    "english": "constructive",
+    "turkish": "yapıcı",
+    "arabic": "بنّاء"
+  },
+  {
+    "id": 654,
+    "english": "deciduous",
+    "turkish": "yapraklarını döken",
+    "arabic": "متساقط الأوراق"
+  },
+  {
+    "id": 655,
+    "english": "exploit",
+    "turkish": "yararlanmak, sömürmek",
+    "arabic": "يستغل"
+  },
+  {
+    "id": 656,
+    "english": "creativity",
+    "turkish": "yaratıcılık",
+    "arabic": "إبداع"
+  },
+  {
+    "id": 657,
+    "english": "crevice",
+    "turkish": "yarık, çatlak",
+    "arabic": "شق، صدع"
+  },
+  {
+    "id": 658,
+    "english": "crevice",
+    "turkish": "yarık, çatlak",
+    "arabic": "شق، صدع"
+  },
+  {
+    "id": 659,
+    "english": "slot",
+    "turkish": "yarık/delik açmak",
+    "arabic": "يفتح شقاً/فتحة"
+  },
+  {
+    "id": 660,
+    "english": "hemisphere",
+    "turkish": "yarım küre",
+    "arabic": "نصف الكرة"
+  },
+  {
+    "id": 661,
+    "english": "life-span",
+    "turkish": "yaşam süresi",
+    "arabic": "عمر (مدى الحياة)"
+  },
+  {
+    "id": 662,
+    "english": "piecemeal",
+    "turkish": "yavaş yavaş, parça parça",
+    "arabic": "تدريجياً، قطعة قطعة"
+  },
+  {
+    "id": 663,
+    "english": "dispersal",
+    "turkish": "yayma, dağıtma",
+    "arabic": "انتشار، تبديد"
+  },
+  {
+    "id": 664,
+    "english": "emission",
+    "turkish": "yayma, yayılım",
+    "arabic": "انبعاث"
+  },
+  {
+    "id": 665,
+    "english": "emit",
+    "turkish": "yaymak",
+    "arabic": "يطلق، ينبعث"
+  },
+  {
+    "id": 666,
+    "english": "fodder",
+    "turkish": "yem, gıda",
+    "arabic": "علف"
+  },
+  {
+    "id": 667,
+    "english": "acclimatization",
+    "turkish": "yeni bir iklime uyum",
+    "arabic": "التأقلم مع مناخ جديد"
+  },
+  {
+    "id": 668,
+    "english": "posterity",
+    "turkish": "yeni nesil",
+    "arabic": "الأجيال القادمة"
+  },
+  {
+    "id": 669,
+    "english": "resume",
+    "turkish": "yeniden devam etmek",
+    "arabic": "يستأنف"
+  },
+  {
+    "id": 670,
+    "english": "novelty",
+    "turkish": "yenilik",
+    "arabic": "حداثة، جدة"
+  },
+  {
+    "id": 671,
+    "english": "innovation",
+    "turkish": "yenilik, icat",
+    "arabic": "ابتكار"
+  },
+  {
+    "id": 672,
+    "english": "gravity",
+    "turkish": "yerçekimi, bir şeyin ciddi oluşu",
+    "arabic": "الجاذبية، خطورة أمر"
+  },
+  {
+    "id": 673,
+    "english": "native",
+    "turkish": "yerli, doğma büyüme",
+    "arabic": "أصلي، محلي"
+  },
+  {
+    "id": 674,
+    "english": "terrestrial",
+    "turkish": "yeryüzüne ait, karaya ait",
+    "arabic": "أرضي"
+  },
+  {
+    "id": 675,
+    "english": "incapable",
+    "turkish": "yeteneksiz",
+    "arabic": "غير قادر"
+  },
+  {
+    "id": 676,
+    "english": "insufficient",
+    "turkish": "yetersiz",
+    "arabic": "غير كافٍ"
+  },
+  {
+    "id": 677,
+    "english": "cultivate",
+    "turkish": "yetiştirmek",
+    "arabic": "يزرع"
+  },
+  {
+    "id": 678,
+    "english": "bank",
+    "turkish": "yığılmak, kümelemek",
+    "arabic": "يتراكم، يتكدس"
+  },
+  {
+    "id": 679,
+    "english": "mass",
+    "turkish": "yığın",
+    "arabic": "كتلة"
+  },
+  {
+    "id": 680,
+    "english": "stock",
+    "turkish": "yığmak, depolamak",
+    "arabic": "يخزّن"
+  },
+  {
+    "id": 681,
+    "english": "destructive",
+    "turkish": "yıkıcı",
+    "arabic": "مدمّر"
+  },
+  {
+    "id": 682,
+    "english": "disruptive",
+    "turkish": "yıkıcı, bölücü",
+    "arabic": "مخرّب، معطّل"
+  },
+  {
+    "id": 683,
+    "english": "devastate",
+    "turkish": "yıkmak, mahvetmek",
+    "arabic": "يدمّر"
+  },
+  {
+    "id": 684,
+    "english": "lightening",
+    "turkish": "yıldırım",
+    "arabic": "برق"
+  },
+  {
+    "id": 685,
+    "english": "annually",
+    "turkish": "yıllık olarak",
+    "arabic": "سنوياً"
+  },
+  {
+    "id": 686,
+    "english": "predator",
+    "turkish": "yırtıcı hayvan, avcı",
+    "arabic": "حيوان مفترس"
+  },
+  {
+    "id": 687,
+    "english": "compact",
+    "turkish": "yoğunlaştırmak",
+    "arabic": "يُكثّف"
+  },
+  {
+    "id": 688,
+    "english": "annihilate",
+    "turkish": "yok etme, imha etme",
+    "arabic": "يبيد، يفني"
+  },
+  {
+    "id": 689,
+    "english": "sweep away",
+    "turkish": "yok etmek",
+    "arabic": "يمحو، يجرف"
+  },
+  {
+    "id": 690,
+    "english": "expedition",
+    "turkish": "yolculuk",
+    "arabic": "رحلة استكشافية"
+  },
+  {
+    "id": 691,
+    "english": "pave the way for",
+    "turkish": "yolunu açmak, zemin hazırlamak",
+    "arabic": "يمهد الطريق لـ"
+  },
+  {
+    "id": 692,
+    "english": "alfalfa",
+    "turkish": "yonca",
+    "arabic": "البرسيم"
+  },
+  {
+    "id": 693,
+    "english": "worrisome",
+    "turkish": "yorucu",
+    "arabic": "مرهق، مقلق"
+  },
+  {
+    "id": 694,
+    "english": "steer",
+    "turkish": "yön vermek",
+    "arabic": "يوجّه"
+  },
+  {
+    "id": 695,
+    "english": "orbit",
+    "turkish": "yörünge",
+    "arabic": "مدار"
+  },
+  {
+    "id": 696,
+    "english": "upwards",
+    "turkish": "yukarı doğru",
+    "arabic": "إلى الأعلى"
+  },
+  {
+    "id": 697,
+    "english": "aloft",
+    "turkish": "yukarı(da)",
+    "arabic": "في الأعلى"
+  },
+  {
+    "id": 698,
+    "english": "load",
+    "turkish": "yük",
+    "arabic": "حمولة"
+  },
+  {
+    "id": 699,
+    "english": "amplification",
+    "turkish": "yükseltme",
+    "arabic": "تضخيم"
+  },
+  {
+    "id": 700,
+    "english": "subsoil",
+    "turkish": "yüzeyin hemen altındaki toprak",
+    "arabic": "التربة تحت السطحية"
+  },
+  {
+    "id": 701,
+    "english": "time warp",
+    "turkish": "zaman sapması",
+    "arabic": "انزياح زمني"
+  },
+  {
+    "id": 702,
+    "english": "in time",
+    "turkish": "zamanla",
+    "arabic": "مع مرور الوقت"
+  },
+  {
+    "id": 703,
+    "english": "membrane",
+    "turkish": "zar, çeper",
+    "arabic": "غشاء"
+  },
+  {
+    "id": 704,
+    "english": "toxic",
+    "turkish": "zehirli",
+    "arabic": "سام"
+  },
+  {
+    "id": 705,
+    "english": "challenge",
+    "turkish": "zorluk, meydan okumak",
+    "arabic": "تحدٍّ"
+  },
+  {
+    "id": 706,
+    "english": "emerald",
+    "turkish": "zümrüt",
+    "arabic": "زمرد"
   }
 ]
