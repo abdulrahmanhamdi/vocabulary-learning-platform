@@ -3,8 +3,8 @@
 
 import { useState, useEffect, useMemo } from 'react';
 import { Word, DayData } from '@/types';
-import allWordsData from '@/data/all-words.json';
 import { DEFAULT_WORDS_PER_DAY } from '@/lib/constants';
+import { fetchAllWords } from '@/lib/api';
 
 export function generateDaysFromWords(
   words: Word[],
@@ -32,14 +32,23 @@ export function useWords() {
   const [isLoading, setIsLoading] = useState(true);
 
   useEffect(() => {
-    try {
-      const words = allWordsData as Word[];
-      setAllWords(words);
-      setIsLoading(false);
-    } catch (error) {
-      console.error('Error loading words:', error);
-      setIsLoading(false);
-    }
+    let isMounted = true;
+    fetchAllWords()
+      .then((words) => {
+        if (isMounted) {
+          setAllWords(words);
+          setIsLoading(false);
+        }
+      })
+      .catch((error) => {
+        console.error('Error loading words:', error);
+        if (isMounted) {
+          setIsLoading(false);
+        }
+      });
+    return () => {
+      isMounted = false;
+    };
   }, []);
 
   const days = useMemo(

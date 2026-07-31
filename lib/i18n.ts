@@ -134,6 +134,7 @@ export const translations = {
       sort: 'Sort',
       search: 'Search',
       keyboardShortcuts: 'Keyboard Shortcuts',
+      offline: "You're offline. Using cached data.",
       theme: {
         light: 'Light',
         dark: 'Dark',
@@ -251,6 +252,7 @@ export const translations = {
       filter: 'Filtrele',
       sort: 'Sırala',
       search: 'Ara',
+      offline: 'Çevrimdışısınız. Önbellekteki veriler kullanılıyor.',
       theme: {
         light: 'Aydınlık',
         dark: 'Karanlık',
@@ -368,6 +370,7 @@ export const translations = {
       filter: 'تصفية',
       sort: 'ترتيب',
       search: 'بحث',
+      offline: 'أنت غير متصل بالإنترنت. يتم استخدام البيانات المخزنة مؤقتًا.',
       theme: {
         light: 'فاتح',
         dark: 'داكن',
