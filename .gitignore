@@ -1,44 +1,61 @@
-# dependencies
-/node_modules
-/.pnp
+# Dependencies
+node_modules/
+.pnp
 .pnp.js
 
-# testing
-/coverage
+# Testing
+coverage/
 
-# next.js
-/.next/
-/out/
+# Next.js build output
+.next/
+out/
 
-# production
-/build
+# Production / Bundles
+build/
+dist/
+web-build/
 
-# misc
+# Expo / React Native
+.expo/
+.metro-health-check*
+/apps/mobile/ios
+/apps/mobile/android
+
+# Turbo cache
+.turbo/
+
+# Cache directories
+.cache/
+
+# OS files
 .DS_Store
-*.pem
+.DS_Store?
+._*
+Thumbs.db
+ehthumbs.db
 
-# debug
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-
-# local env files
-.env*.local
-.env
-
-# vercel
-.vercel
-
-# typescript
-*.tsbuildinfo
-next-env.d.ts
-
-# IDE
+# IDEs and editors
 .idea/
 .vscode/
 *.swp
 *.swo
+*.lock
 
-# logs
-logs
+# Logs
 *.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.env*.local
+
+# TypeScript
+*.tsbuildinfo
+next-env.d.ts
+expo-env.d.ts

@@ -1,6 +1,8 @@
-# VocabLearn - Vocabulary Learning Platform
+# VocabLearn - Vocabulary Learning Monorepo
 
-VocabLearn is a modern, responsive, multi-lingual vocabulary learning web application built with **Next.js 16 (App Router)**, **React 19**, **TypeScript**, and **Tailwind CSS 4**. It empowers users to expand their English vocabulary through structured daily lessons, interactive study cards, multi-mode quizzes, and real-time progress statistics.
+VocabLearn is a modern, responsive, multi-lingual vocabulary learning platform that shares core business logic between a **Next.js 16 Web Application** and a **React Native + Expo Mobile Application** through a monorepo architecture. 
+
+It empowers users to expand their English vocabulary through structured daily lessons, interactive study cards, multi-mode quizzes, and real-time progress statistics.
 
 ---
 
@@ -15,20 +17,24 @@ VocabLearn is a modern, responsive, multi-lingual vocabulary learning web applic
   - Arabic → English
 - **🌐 Trilingual Localization**: Complete UI localization support for **English**, **Türkçe**, and **العربية (RTL)**.
 - **🎨 Modern Dual Themes**: Fluid Light Mode (`#f2f2f2`) and Dark Mode (`#1a202c`) built with dynamic design tokens.
-- **⌨️ Keyboard Shortcuts**: Built-in keyboard navigation for fast flashcard studying (`Arrow Keys`, `Space`, `Enter`, `F`).
+- **⌨️ Keyboard Shortcuts**: Built-in keyboard navigation for fast flashcard studying (`Arrow Keys`, `Space`, `Enter`, `F`) in the web app.
 - **📊 Detailed Statistics**: Comprehensive dashboard displaying study streaks, accuracy percentages, known vs. unknown word ratios, and completion metrics.
-- **💾 Local Storage Persistence**: User progress, favorite words, quiz history, and preferences are automatically saved locally in the browser.
+- **💾 Local Storage Persistence**: User progress, favorite words, quiz history, and preferences are automatically saved locally (IndexedDB/LocalStorage on Web, MMKV on Mobile).
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Monorepo Architecture
 
-- **Framework**: [Next.js 16](https://nextjs.org/) (App Router & Turbopack)
-- **UI Library**: [React 19](https://react.dev/)
-- **Language**: [TypeScript](https://www.typescriptlang.org/)
-- **Styling**: [Tailwind CSS 4](https://tailwindcss.com/) & [Class Variance Authority](https://cva.style/docs)
-- **Icons & Animations**: [Lucide React](https://lucide.dev/) & [Framer Motion](https://www.framer.com/motion/)
-- **Theming**: [next-themes](https://github.com/pacocoursey/next-themes)
+### Monorepo Workspaces
+- **`apps/web`**: Next.js 16 Web App.
+- **`apps/mobile`**: React Native + Expo Mobile App.
+- **`packages/shared`**: Shared logic, constants, types, and datasets.
+
+### Core Technologies
+- **Monorepo Manager**: NPM Workspaces
+- **Shared Code (`packages/shared`)**: TypeScript compilation (`tsc`), Zod
+- **Web App (`apps/web`)**: Next.js 16 (App Router & Turbopack), React 19, Tailwind CSS 4, next-themes, Framer Motion, Lucide Icons
+- **Mobile App (`apps/mobile`)**: React Native (0.86+), Expo SDK 57+, Expo Router (File-based navigation), Zustand, TanStack Query, MMKV (Fast local storage), React Native Paper, React Native Elements, Expo AV (Audio), Expo Haptics, Expo Secure Store
 
 ---
 
@@ -36,19 +42,28 @@ VocabLearn is a modern, responsive, multi-lingual vocabulary learning web applic
 
 ```text
 vocabulary-learning-platform/
-├── app/                  # Next.js App Router routes & layouts
-│   ├── daily/            # Daily lessons overview & study pages
-│   ├── quiz/             # Quiz configuration & active quiz player
-│   ├── statistics/       # User learning stats dashboard
-│   ├── words/            # Full vocabulary list with search/filter/sort
-│   ├── globals.css       # Global styles & theme color tokens
-│   └── layout.tsx        # Root application layout
-├── components/           # Reusable UI components & cards
-│   └── ui/               # Primitive design system elements (Button, Card, Input, etc.)
-├── data/                 # Local vocabulary dataset (JSON)
-├── hooks/                # Custom React hooks (state, local storage, shortcuts)
-├── lib/                  # Utilities, i18n translation maps, & constants
-└── types/                # TypeScript interface definitions
+├── apps/
+│   ├── web/                  # Next.js 16 Web Application
+│   │   ├── app/              # Next.js App Router routes & layouts
+│   │   ├── components/       # Web-specific components
+│   │   ├── hooks/            # Web custom hooks
+│   │   └── package.json
+│   └── mobile/               # React Native + Expo Mobile Application
+│       ├── app/              # Expo Router pages
+│       ├── src/              # Mobile app source code
+│       └── package.json
+├── packages/
+│   └── shared/               # Shared logic package
+│       ├── src/
+│       │   ├── constants/    # Shared constant values
+│       │   ├── data/         # Shared static vocabulary dataset (all-words.json)
+│       │   ├── types/        # TypeScript interface definitions
+│       │   └── index.ts      # Shared package entrypoint
+│       └── package.json
+├── scripts/
+│   └── clean.js              # Cross-platform cleanup utility
+├── package.json              # Workspace root package.json
+└── README.md
 ```
 
 ---
@@ -58,7 +73,7 @@ vocabulary-learning-platform/
 ### Prerequisites
 
 - **Node.js**: `v20.0.0` or higher
-- **Package Manager**: `npm` (v10+) or `yarn` / `pnpm`
+- **Package Manager**: `npm` (v10+)
 
 ### Installation
 
@@ -69,52 +84,87 @@ vocabulary-learning-platform/
    ```
 
 2. **Install dependencies**:
+   This command installs dependencies for all workspaces and automatically builds the `@vocabulary/shared` package:
    ```bash
    npm install
    ```
 
 3. **Configure Environment Variables**:
-   Copy `.env.example` to `.env` (optional setup):
+   Copy `.env.example` to `.env` inside `apps/web` (optional setup):
    ```bash
-   cp .env.example .env
+   cp .env.example apps/web/.env
    ```
 
 ---
 
-## 💻 Running the Application
+## 💻 Development Commands
 
-### Development Server
+All commands can be run directly from the monorepo root directory.
 
-Start the development server with Turbopack:
+### Web Application
 
+Start the web development server (with Turbopack):
 ```bash
 npm run dev
+# or
+npm run web:dev
 ```
-
 Open [http://localhost:3000](http://localhost:3000) in your browser.
 
-### Quality Checks & Verification
-
-Run TypeScript compilation check:
+Build the web application:
 ```bash
-npx tsc --noEmit
+npm run web:build
 ```
 
-Run ESLint checks:
+Start the built production server:
+```bash
+npm run web:start
+```
+
+### Mobile Application
+
+Start the Expo development server:
+```bash
+npm run mobile:start
+```
+
+Run on an Android device/emulator:
+```bash
+npm run mobile:android
+```
+
+Run on an iOS device/simulator:
+```bash
+npm run mobile:ios
+```
+
+Run the mobile app in a web browser:
+```bash
+npm run mobile:web
+```
+
+### Shared Logic & Utilities
+
+Build the shared package manually:
+```bash
+npm run shared:build
+```
+
+Clean the workspace (removes all `node_modules`, lockfiles, and build artifacts cross-platform):
+```bash
+npm run clean
+```
+
+### Quality Control
+
+Lint the workspace:
 ```bash
 npm run lint
 ```
 
-### Production Build
-
-Create an optimized production build:
+Format the workspace using Prettier:
 ```bash
-npm run build
-```
-
-Start the production server:
-```bash
-npm run start
+npm run format
 ```
 
 ---
