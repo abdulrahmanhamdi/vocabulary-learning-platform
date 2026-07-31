@@ -4,18 +4,42 @@ import allWordsData from '@/data/all-words.json';
 import { generateDaysFromWords } from '@/hooks/use-words';
 import { DEFAULT_WORDS_PER_DAY } from '@/lib/constants';
 
+/**
+ * Fetches all words dynamically from the /api/words endpoint.
+ * Falls back to statically bundled JSON if the network request fails
+ * (e.g. before Service Worker caches the data or during initial offline boot).
+ */
 export async function fetchAllWords(): Promise<Word[]> {
-  return Promise.resolve(allWordsData as Word[]);
+  try {
+    const response = await fetch('/api/words');
+    if (!response.ok) {
+      throw new Error(`HTTP error! status: ${response.status}`);
+    }
+    return await response.json();
+  } catch (error) {
+    console.warn('Failed to fetch words from API, using bundled fallback:', error);
+    return allWordsData as Word[];
+  }
 }
 
 export async function fetchDayData(dayNumber: number): Promise<DayData | null> {
-  const words = allWordsData as Word[];
-  const days = generateDaysFromWords(words, DEFAULT_WORDS_PER_DAY);
-  const dayData = days.find((d) => d.day === dayNumber);
-  return Promise.resolve(dayData || null);
+  try {
+    const words = await fetchAllWords();
+    const days = generateDaysFromWords(words, DEFAULT_WORDS_PER_DAY);
+    const dayData = days.find((d) => d.day === dayNumber);
+    return dayData || null;
+  } catch (error) {
+    console.error('Error fetching day data:', error);
+    return null;
+  }
 }
 
 export async function fetchWordById(id: number): Promise<Word | undefined> {
-  const words = allWordsData as Word[];
-  return Promise.resolve(words.find((w) => w.id === id));
+  try {
+    const words = await fetchAllWords();
+    return words.find((w) => w.id === id);
+  } catch (error) {
+    console.error('Error fetching word by ID:', error);
+    return undefined;
+  }
 }
