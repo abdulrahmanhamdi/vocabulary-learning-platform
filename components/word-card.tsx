@@ -15,6 +15,7 @@ import {
   X,
   Volume2,
 } from 'lucide-react';
+import { speak } from '@/lib/speech';
 import { cn } from '@/lib/utils';
 
 interface WordCardProps {
@@ -39,8 +40,7 @@ export function WordCard({
   className,
 }: WordCardProps) {
   const handlePlayPronunciation = () => {
-    // Future: Web Speech API or TTS integration
-    console.log('Play pronunciation for:', word.english);
+    speak(word.english);
   };
 
   return (

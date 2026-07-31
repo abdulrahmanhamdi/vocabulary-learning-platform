@@ -10,6 +10,7 @@ import { useKnownWords } from '@/hooks/use-known-words';
 import { useFavorites } from '@/hooks/use-favorites';
 import { useCompletedLessons } from '@/hooks/use-completed-lessons';
 import { useKeyboardShortcuts } from '@/hooks/use-keyboard-shortcuts';
+import { useLocalStorage } from '@/hooks/use-local-storage';
 import { translate } from '@/lib/i18n';
 import { Button } from '@/components/ui/button';
 import { Progress } from '@/components/ui/progress';
@@ -30,8 +31,14 @@ export default function StudyPage() {
   const { toggleFavorite, isFavorite } = useFavorites();
   const { markCompleted } = useCompletedLessons();
 
-  const [currentIndex, setCurrentIndex] = useState(0);
-  const [wordsPerStudy, setWordsPerStudy] = useState(50);
+  const { storedValue: currentIndex, setValue: setCurrentIndex } = useLocalStorage<number>(
+    `study-current-index-day-${dayNumber}`,
+    0
+  );
+  const { storedValue: wordsPerStudy, setValue: setWordsPerStudy } = useLocalStorage<number>(
+    `study-words-per-study-day-${dayNumber}`,
+    50
+  );
   const [showTranslation, setShowTranslation] = useState(false);
 
   const allWords = getWordsForDay(dayNumber);
@@ -39,7 +46,9 @@ export default function StudyPage() {
     () => allWords.slice(0, wordsPerStudy),
     [allWords, wordsPerStudy]
   );
-  const currentWord = words[currentIndex];
+  
+  const safeIndex = words.length > 0 ? Math.min(currentIndex, words.length - 1) : 0;
+  const currentWord = words[safeIndex];
 
   const t = (key: string, params?: Record<string, string | number>) =>
     translate(locale, key, params);
@@ -75,19 +84,20 @@ export default function StudyPage() {
   }
 
   const handleNext = () => {
-    if (currentIndex < words.length - 1) {
-      setCurrentIndex(currentIndex + 1);
+    if (safeIndex < words.length - 1) {
+      setCurrentIndex(safeIndex + 1);
       setShowTranslation(false);
     } else {
       // Completed all words
       markCompleted(dayNumber);
+      setCurrentIndex(0);
       router.push('/daily');
     }
   };
 
   const handlePrevious = () => {
-    if (currentIndex > 0) {
-      setCurrentIndex(currentIndex - 1);
+    if (safeIndex > 0) {
+      setCurrentIndex(safeIndex - 1);
       setShowTranslation(false);
     }
   };
@@ -107,7 +117,7 @@ export default function StudyPage() {
   const isCurrentKnown = knownWords.includes(currentWord.id);
   const isCurrentFavorite = isFavorite(currentWord.id);
 
-  const progress = ((currentIndex + 1) / words.length) * 100;
+  const progress = words.length > 0 ? ((safeIndex + 1) / words.length) * 100 : 0;
 
   const wordStatusOptions = [20, 30, 40, 50];
 
@@ -150,7 +160,7 @@ export default function StudyPage() {
       <div className="mb-6">
         <div className="flex items-center justify-between text-sm">
           <span>
-            {t('study.progress', { current: currentIndex + 1, total: words.length })}
+            {t('study.progress', { current: safeIndex + 1, total: words.length })}
           </span>
           <span>{Math.round(progress)}%</span>
         </div>
@@ -181,14 +191,14 @@ export default function StudyPage() {
         <Button
           variant="outline"
           onClick={handlePrevious}
-          disabled={currentIndex === 0}
+          disabled={safeIndex === 0}
           className="flex-1 sm:flex-none"
         >
           <ChevronLeft className="h-4 w-4" />
           <span className="hidden sm:inline">{t('study.previous')}</span>
         </Button>
 
-        {currentIndex < words.length - 1 ? (
+        {safeIndex < words.length - 1 ? (
           <Button
             variant="gradient"
             onClick={handleNext}
@@ -202,6 +212,7 @@ export default function StudyPage() {
             variant="gradient"
             onClick={() => {
               markCompleted(dayNumber);
+              setCurrentIndex(0);
               router.push('/daily');
             }}
             className="flex-1 sm:flex-none"

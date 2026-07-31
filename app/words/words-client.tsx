@@ -30,8 +30,8 @@ const WORDS_PER_PAGE = 20;
 export default function WordsPage() {
   const { locale } = useLanguage();
   const { allWords, isLoading } = useWords();
-  const { favorites } = useFavorites();
-  const { knownWords } = useKnownWords();
+  const { favorites, toggleFavorite } = useFavorites();
+  const { knownWords, toggleKnown } = useKnownWords();
 
   const [searchQuery, setSearchQuery] = useState('');
   const [sortBy, setSortBy] = useState<'az' | 'za'>('az');
@@ -39,6 +39,7 @@ export default function WordsPage() {
     'all'
   );
   const [currentPage, setCurrentPage] = useState(1);
+  const [showTranslations, setShowTranslations] = useState<Record<number, boolean>>({});
 
   const t = (key: string, params?: Record<string, string | number>) =>
     translate(locale, key, params);
@@ -179,12 +180,17 @@ export default function WordsPage() {
           >
             <WordCard
               word={word}
-              showTranslation={false}
+              showTranslation={!!showTranslations[word.id]}
               isFavorite={favorites.includes(word.id)}
               isKnown={knownWords.includes(word.id)}
-              onToggleTranslation={() => {}}
-              onToggleFavorite={() => {}}
-              onToggleKnown={() => {}}
+              onToggleTranslation={() => {
+                setShowTranslations((prev) => ({
+                  ...prev,
+                  [word.id]: !prev[word.id],
+                }));
+              }}
+              onToggleFavorite={() => toggleFavorite(word.id)}
+              onToggleKnown={() => toggleKnown(word.id)}
               className="h-full"
             />
           </motion.div>
