@@ -2,6 +2,7 @@
 import type { Metadata, Viewport } from 'next';
 import { GeistSans, GeistMono } from '@/lib/fonts';
 import { ThemeProvider } from '@/components/theme-provider';
+import { LanguageProvider } from '@/components/language-provider';
 import { Navbar } from '@/components/navbar';
 import { Footer } from '@/components/footer';
 import { constructMetadata } from '@/lib/seo';
@@ -39,11 +40,13 @@ export default function RootLayout({
           enableSystem
           disableTransitionOnChange
         >
-          <div className="flex min-h-screen flex-col">
-            <Navbar />
-            <main className="flex-1">{children}</main>
-            <Footer />
-          </div>
+          <LanguageProvider>
+            <div className="flex min-h-screen flex-col">
+              <Navbar />
+              <main className="flex-1">{children}</main>
+              <Footer />
+            </div>
+          </LanguageProvider>
         </ThemeProvider>
       </body>
     </html>
